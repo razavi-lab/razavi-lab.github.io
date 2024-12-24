@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Open Positions
-description: Positions
+title: Positions
+description: Open Positions
 nav: true
 nav_order: 6
 ---
