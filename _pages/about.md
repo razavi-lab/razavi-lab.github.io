@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Research Objective
+title: Home
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
