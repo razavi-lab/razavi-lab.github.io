@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Lab members
+description: > #Lab members
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: > #[work, fun]
 horizontal: false
 ---
 
