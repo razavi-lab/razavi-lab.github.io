@@ -7,7 +7,7 @@ subtitle: <a href='https://engineering.unl.edu/mme/faculty/mohammad-razavi/'>Aff
 profile:  
   align: right  
   image: prof_pic.jpg  
-  image_circular: true  # crops the image to make it circular  
+  image_circular: true  
   more_info: >  
     <p>City Campus</p>  
     <p>University of Nebraska–Lincoln</p>  
@@ -24,9 +24,9 @@ mission_statement: >
   <p>Our mission is to advance the understanding of lymphatic diseases through innovative research, cutting-edge molecular studies, and development of advanced imaging techniques. We strive to translate these findings into solutions that improve human health and well-being.</p>
 
 carousel_images:
-  - prof_pic.jpg 
-  - iprof_pic.jpg 
-  - prof_pic.jpg 
+  - prof_pic.jpg
+  - iprof_pic.jpg
+  - prof_pic.jpg
 
 carousel_animation: |
   <div class="carousel">
@@ -59,12 +59,6 @@ css: |
     height: 100%;
     object-fit: cover;
   }
-
-  
-
-
-
-
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
