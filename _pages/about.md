@@ -34,13 +34,13 @@ mission_statement:
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-				<img src="image01.jpg" alt="">
+				<img src="prof_pic.jpg" alt="">
 			</li>
 			<li class="splide__slide">
-				<img src="image02.jpg" alt="">
+				<img src="prof_pic.jpg" alt="">
 			</li>
 			<li class="splide__slide">
-				<img src="image03.jpg" alt="">
+				<img src="prof_pic.jpg" alt="">
 			</li>
 		</ul>
   </div>
