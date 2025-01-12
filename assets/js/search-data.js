@@ -28,7 +28,7 @@ ninja.data = [{
           description: "Open Positions",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/positions/";
           },
         },{id: "nav-lab-members",
           title: "Lab Members",
