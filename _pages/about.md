@@ -18,7 +18,7 @@ profile:
     <div class="google-map">
       <iframe 
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.2291514297167!2d-96.6973266!3d40.8229301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8796bf00283e6527%3A0x28044e72f1967e94!2sNebraska%20Hall!5e0!3m2!1sen!2sus!4v1736710816989!5m2!1sen!2sus" 
-        width="300" height="225" 
+        width="150" height="150" 
         style="border:0;" 
         allowfullscreen="" 
         loading="lazy" 
