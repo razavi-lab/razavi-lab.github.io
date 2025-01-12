@@ -29,7 +29,7 @@ linkedin_username: razavi-lab # your LinkedIn user name
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: true # set to true to show the RSS icon
+rss_icon: false # set to true to show the RSS icon
 scholar_userid: qw6NjREAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -41,11 +41,11 @@ scholar_userid: qw6NjREAAAAJ # your Google Scholar ID
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-# work_url: # work page URL
-# x_username: # your X handle
+work_url: https://engineering.unl.edu/mme/faculty/mohammad-razavi/ # work page URL
+x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+custom_social:  # can be any name here other than the ones already defined above
+  logo: https://ucomm.unl.edu/sites/unl.edu.university-communication/files/styles/no_crop_960/public/media/image/nebraska-n.jpg # can be png, svg, jpg
+  title: UNL Website
+  url: https://engineering.unl.edu/mme/faculty/mohammad-razavi/
