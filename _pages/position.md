@@ -1,22 +1,26 @@
 ---
 layout: page
 permalink: /positions/
-title: Positions
-description: Open Positions
+title: 
+description: 
 nav: true
 nav_order: 6
 ---
 # **Open Positions**
 
-Are you passionate about research and innovation? We are always seeking **motivated** and **creative** graduate and undergraduate researchers to join our dynamic team!
+Are you passionate about **research** and **innovation**? We are always seeking **motivated** and **creative** graduate and undergraduate researchers to join our dynamic and collaborative team!
 
+---
 
+### **Graduate Students: How to Apply**  
+If you're interested in becoming part of our research group, please email the following documents to **[mrazavi2@unl.edu](mailto:mrazavi2@unl.edu)**:  
 
-### **How to Apply**  
-If you're interested in joining us, please send the following documents to **mrazavi2@unl.edu**:  
+- 📄 **Your CV**  
+- 📞 **Contact information for three references**  
+- 📝 **A cover letter** describing:  
+  - Your research interests  
+  - How you can contribute to our team  
 
-- **Your CV**  
-- **Contact information for three references**  
-- **A cover letter** describing your interests and how you can contribute to our research team
+We look forward to hearing from you and exploring exciting opportunities to work together!
 
-We look forward to hearing from you and exploring how we can work together to advance cutting-edge research!
+---
