@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Home
-permalink: /
+permalink: <a href='https://engineering.unl.edu/mme/faculty/mohammad-razavi/'>  
 subtitle: <a href='https://engineering.unl.edu/mme/faculty/mohammad-razavi/'> Affiliations</a>. 
 
 profile:
