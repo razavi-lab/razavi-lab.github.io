@@ -19,7 +19,7 @@ profile:
     </div>
 carousels:
   - images: 
-    - image: /assets/img/Car1.jpg
+    - image: /assets/img/Car1.jpeg
     - image: /assets/img/1.jpg
     - image: /assets/img/2.jpg
     - image: /assets/img/3.jpg
