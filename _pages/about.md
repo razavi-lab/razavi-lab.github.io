@@ -27,45 +27,21 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-mission_statement:
-  <h2>Mission Statement</h2>
-  <p>Our mission is to advance the understanding of lymphatic diseases through innovative research, cutting-edge molecular studies, and development of advanced imaging techniques. We strive to translate these findings into solutions that improve human health and well-being.</p>
-carousel_images:
-  - prof_pic.jpg
-  - prof_pic.jpg
-  - prof_pic.jpg
-
-carousel_animation: |
-  <div class="carousel">
-    <div class="carousel-item">
-      <img src="prof_pic.jpg" alt="Research Process 1">
-    </div>
-    <div class="carousel-item">
-      <img src="prof_pic.jpg" alt="Research Process 2">
-    </div>
-    <div class="carousel-item">
-      <img src="prof_pic.jpg" alt="Research Process 3">
-    </div>
+<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+  <div class="splide__track">
+		<ul class="splide__list">
+			<li class="splide__slide">
+				<img src="image01.jpg" alt="">
+			</li>
+			<li class="splide__slide">
+				<img src="image02.jpg" alt="">
+			</li>
+			<li class="splide__slide">
+				<img src="image03.jpg" alt="">
+			</li>
+		</ul>
   </div>
-
-css: |
-  .carousel {
-    display: flex;
-    overflow: hidden;
-    width: 100%;
-    height: 300px;
-  }
-
-  .carousel-item {
-    min-width: 100%;
-    transition: transform 0.5s ease-in-out;
-  }
-
-  .carousel img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
+</section>
 
 <!-- ---
 layout: about
