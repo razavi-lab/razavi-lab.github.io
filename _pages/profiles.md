@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /labmembers/
-title: Lab Members
+permalink: /members/
+title: Team
 description: 
 nav: true
 nav_order: 7
