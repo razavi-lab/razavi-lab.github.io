@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /positions/
-title: 
-description: 
+title: Positions
+description: Open Positions
 nav: true
 nav_order: 6
 ---
+
 # **Open Positions**
 
 Are you passionate about **research** and **innovation**? We are always seeking **motivated** and **creative** graduate and undergraduate researchers to join our dynamic and collaborative team!
@@ -22,5 +23,4 @@ If you're interested in becoming part of our research group, please email the fo
   - How you can contribute to our team  
 
 We look forward to hearing from you and exploring exciting opportunities to work together!
-
 
