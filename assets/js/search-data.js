@@ -130,13 +130,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=qw6NjREAAAAJ", "_blank");
         },
       },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://engineering.unl.edu/mme/faculty/mohammad-razavi/", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
@@ -148,7 +141,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://engineering.unl.edu/mme/faculty/mohammad-razavi/", "_blank");
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
