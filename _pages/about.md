@@ -19,9 +19,7 @@ profile:
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.2687282054803!2d-96.6975617!3d40.8220607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8796bee64db8981d%3A0x1ea22287c2f3016d!2sScott%20Engineering%20Center!5e0!3m2!1sen!2sus!4v1736712329331!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
-mission_statement:
-  <h2>Mission Statement</h2>
-  <p>Our mission is to advance the understanding of lymphatic diseases through innovative research, cutting-edge molecular studies, and development of advanced imaging techniques. We strive to translate these findings into solutions that improve human health and well-being.</p>
+
 
 
 
@@ -29,6 +27,9 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+mission_statement:
+  <h2>Mission Statement</h2>
+  <p>Our mission is to advance the understanding of lymphatic diseases through innovative research, cutting-edge molecular studies, and development of advanced imaging techniques. We strive to translate these findings into solutions that improve human health and well-being.</p>
 carousel_images:
   - prof_pic.jpg
   - prof_pic.jpg
