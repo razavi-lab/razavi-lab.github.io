@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://engineering.unl.edu/mme/faculty/mohammad-razavi/'> Affiliations</a>. 
+subtitle: <a href='https://engineering.unl.edu/mme/faculty/mohammad-razavi/'> Affiliations</a> 
 
 profile:
   align: right
