@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /positions/
 title: Positions
 description: Open Positions
 nav: true
