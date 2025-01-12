@@ -13,10 +13,8 @@ layout: default
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
-  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-
-  {% include carousel.html height="50" unit="%" duration="7" number="2" %}
   <article>
+    {% include carousel.html height="50" unit="%" duration="7" number="1" %}
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
