@@ -31,9 +31,9 @@ mission_statement: >
   <p>Our mission is to advance the understanding of lymphatic diseases through innovative research, cutting-edge molecular studies, and development of advanced imaging techniques. We strive to translate these findings into solutions that improve human health and well-being.</p>
 
 carousel_images:
-  - image1.jpg
-  - image2.jpg
-  - image3.jpg
+  - prof_pic.jpg 
+  - iprof_pic.jpg 
+  - prof_pic.jpg 
 
 carousel_animation: |
   <div class="carousel">
