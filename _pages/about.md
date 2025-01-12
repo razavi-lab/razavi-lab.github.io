@@ -2,7 +2,7 @@
 layout: about
 title: Carousel Example
 slides:
-  - image: image1.jpg
+  - image: profpic.jpg
     title: First Slide Title
     description: Description for the first slide.
   - image: image2.jpg
