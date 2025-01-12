@@ -21,6 +21,18 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image5.jpg
+    - image: /uploads/slider/image6.jpg
+    - image: /uploads/slider/image7.jpg
+    - image: /uploads/slider/image8.jpg
 ---
   <h2>Mission Statement</h2>
   <p>Our mission is to advance the understanding of lymphatic diseases through innovative research, cutting-edge molecular studies, and development of advanced imaging techniques. We strive to translate these findings into solutions that improve human health and well-being.</p>
