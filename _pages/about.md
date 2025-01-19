@@ -31,16 +31,18 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-## Mission Statement  
-The lymphatic system, composed of lymphatic vessels and lymph nodes, is a crucial component of nearly every organ in the body. It plays a central role in maintaining health and is intricately involved in various inflammatory diseases and chronic conditions, including cancer. Despite its significance, the complexities of lymphatic function and disease remain underexplored.  
+## Mission Statement
 
-Our lab is dedicated to advancing the understanding of lymphatic biology and pathology through innovative, multidisciplinary approaches. These include:  
---Lymphatic and Lymph Node Biomechanics    
--- Lymphatic Tissue Engineering  
--- Advanced Imaging Techniques  
+The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body. It plays a central role in maintaining tissue homeostasis, immune surveillance, and lipid transport. The lymphatic system is involved in various inflammatory diseases and chronic conditions, such as cancer. Despite its significance, the complexities of lymphatic function and disease remain underexplored.
 
-  
+Our lab is dedicated to advancing the understanding of lymphatic biology and pathology through innovative approaches that leverage state-of-the-art computational and experimental techniques. Our current research focuses include:
 
-<p>Through these efforts, we aim to bridge fundamental research with clinical applications, driving advancements in the prevention, diagnosis, and treatment of lymphatic diseases. Our ultimate mission is to translate these discoveries into impactful solutions to improve human health and well-being. </p>
+- **Lymphatic and Lymph Node Biomechanics**
+- **Lymphatic Tissue Engineering**
+- **Advanced Imaging Techniques for Lymphatic Pumping**
+
+We closely collaborate with clinicians, biologists and engineers. Our ultimate mission is to translate these discoveries into impactful innovations and strategies for the prevention, diagnosis, and treatment of lymphatic diseases.
+
+
 
 
