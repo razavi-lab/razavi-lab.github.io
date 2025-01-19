@@ -24,12 +24,14 @@ nav_order: 6
 <p>For additional details, visit <a href="https://graduate.unl.edu/admissions/faq/">UNL Graduate Admissions FAQ</a>.</p>  
 
 ### Undergradute Students: How to Apply  
-<p>Interested students should send an email to <strong>mrazavi2@unl.edu</strong> including:</p>
+<p>Interested candidates should send an email to <strong>mrazavi2@unl.edu</strong> including:</p>
 <ul>
   <li><strong>CV</strong></li>
   <li><strong>Transcripts</strong></li>
-  <li><strong>Cover Letter</strong> describing their research interests and how you can contribute to our team</li>
+  <li><strong>Cover Letter</strong> describing your research interests and how you can contribute to our team</li>
 </ul>
+<p>For fellowship opportunities, candidates are encouraged to visit: <a href="https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/" target="_blank">UCARE Undergraduate Research</a>.</p>
+
 
 <!-- <p>We look forward to hearing from you!</p> -->
 
