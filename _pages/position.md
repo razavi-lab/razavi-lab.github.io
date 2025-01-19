@@ -1,26 +1,25 @@
 ---
 layout: page
 permalink: /positions/
-title: Positions
-description: Open Positions
+title: 
+description: 
 nav: true
 nav_order: 6
 ---
 
-# **Open Positions**
+**Open Positions**  
 
-Are you passionate about **research** and **innovation**? We are always seeking **motivated** and **creative** graduate and undergraduate researchers to join our dynamic and collaborative team!
+We are seeking motivated and creative graduate and undergraduate researchers to join our team!  
 
+**Graduate Students: How to Apply**  
+Interested candidates should apply to either the [Biomedical Engineering (BME) Program](https://engineering.unl.edu/graduate-programs/biomedical-engineering-phd/) or the [Mechanical and Materials Engineering (MME) Program](https://engineering.unl.edu/mme/mme-graduate-programs/).  
 
+To express interest in joining our group, email the following to **mrazavi2@unl.edu**:  
+- CV  
+- Contact information for three references  
+- A cover letter describing your research interests and how you can contribute to our team  
 
-### **Graduate Students: How to Apply**  
-If you're interested in becoming part of our research group, please email the following documents to **[mrazavi2@unl.edu](mailto:mrazavi2@unl.edu)**:  
+For additional details, visit [UNL Graduate Admissions FAQ](https://graduate.unl.edu/admissions/faq/).  
 
-- 📄 **Your CV**  
-- 📞 **Contact information for three references**  
-- 📝 **A cover letter** describing:  
-  - Your research interests  
-  - How you can contribute to our team  
-
-We look forward to hearing from you and exploring exciting opportunities to work together!
+We look forward to hearing from you!  
 
