@@ -31,7 +31,6 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-<h2>Mission Statement</h2>
 ## Mission Statement  
 The lymphatic system, composed of lymphatic vessels and lymph nodes, is a crucial component of nearly every organ in the body. It plays a central role in maintaining health and is intricately involved in various inflammatory diseases and chronic conditions, including cancer. Despite its significance, the complexities of lymphatic function and disease remain underexplored.  
 
@@ -59,5 +58,6 @@ We create state-of-the-art imaging tools to quantify lymphatic pumping and flow 
 
 ---  
 
-Through these efforts, we aim to bridge fundamental research with clinical applications, driving advancements in the prevention, diagnosis, and treatment of lymphatic diseases.
+<p>Through these efforts, we aim to bridge fundamental research with clinical applications, driving advancements in the prevention, diagnosis, and treatment of lymphatic diseases.</p>
+
 
