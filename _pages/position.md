@@ -18,7 +18,7 @@ nav_order: 6
 <ul>  
   <li><strong>CV</strong></li>
   <li><strong>Contact information for three references</strong></li>
-   <li><strong>A cover letter describing your research interests and how you can contribute to our team</strong></li>
+   <li><strong>Cover letter</strong> describing your research interests and how you can contribute to our group</li>
 </ul>  
 
 <p>For additional details, visit <a href="https://graduate.unl.edu/admissions/faq/">UNL Graduate Admissions FAQ</a>.</p>  
@@ -28,6 +28,7 @@ nav_order: 6
 <ul>
   <li><strong>CV</strong></li>
   <li><strong>Transcripts</strong></li>
+<li><strong>Statement:</strong> A description of your interest in our research and how it relates to your academic and personal goals</li>
 </ul>
 <p>For fellowship opportunities, candidates are encouraged to visit: <a href="https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/" target="_blank">UCARE Undergraduate Research</a>.</p>
 
