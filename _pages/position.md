@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /positions/
-title: position
-description: position
+title: Position
+description: 
 nav: true
 nav_order: 6
 ---
