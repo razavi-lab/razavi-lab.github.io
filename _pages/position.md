@@ -16,19 +16,18 @@ nav_order: 6
 
 <p>To express interest in joining our group, email the following to <strong>mrazavi2@unl.edu</strong>:</p>  
 <ul>  
-<li>CV</li>  
-<li>Contact information for three references</li>  
-<li>A cover letter describing your research interests and how you can contribute to our team</li>  
+  <li><strong>CV</strong></li>
+  <li><strong>Contact information for three references</strong></li>
+   <li><strong>A cover letter describing your research interests and how you can contribute to our team</strong></li>
 </ul>  
 
 <p>For additional details, visit <a href="https://graduate.unl.edu/admissions/faq/">UNL Graduate Admissions FAQ</a>.</p>  
 
 ### Undergradute Students: How to Apply  
-<p>Interested candidates should send an email to <strong>mrazavi2@unl.edu</strong> including:</p>
+<p>We hire undergarduate students majoring in Biological Systems Engineering, Mechanical Engineering and Biology. Interested students should send an email to <strong>mrazavi2@unl.edu</strong> including:</p>
 <ul>
   <li><strong>CV</strong></li>
   <li><strong>Transcripts</strong></li>
-  <li><strong>Cover Letter</strong> describing your research interests and how you can contribute to our team</li>
 </ul>
 <p>For fellowship opportunities, candidates are encouraged to visit: <a href="https://uraf.unl.edu/undergraduate-research/ucare-undergraduate-research/" target="_blank">UCARE Undergraduate Research</a>.</p>
 
