@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /positions/
-title: Position
+title: Positions
 description: 
 nav: true
 nav_order: 6
 ---
-
-**Open Positions**  
+<!-- 
+**Open Positions**   -->
 
 <p>We are seeking motivated and creative graduate and undergraduate researchers to join our team!</p>  
 
@@ -23,5 +23,13 @@ nav_order: 6
 
 <p>For additional details, visit <a href="https://graduate.unl.edu/admissions/faq/">UNL Graduate Admissions FAQ</a>.</p>  
 
-<p>We look forward to hearing from you!</p>
+### Undergradute Students: How to Apply  
+<p>Interested students should send an email to <strong>mrazavi2@unl.edu</strong> including:</p>
+<ul>
+  <li><strong>CV</strong></li>
+  <li><strong>Transcripts</strong></li>
+  <li><strong>Cover Letter</strong> describing their research interests and how you can contribute to our team</li>
+</ul>
+
+<!-- <p>We look forward to hearing from you!</p> -->
 
