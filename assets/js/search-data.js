@@ -58,11 +58,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-our-paper-has-been-published-in-the-prestigious-nature-portfolio-journal-npj-imaging",
-          title: 'Our paper has been published in the prestigious Nature Portfolio journal, npj Imaging!...',
-          description: "",
-          section: "News",},{id: "news-join-us-we-seek-motivated-graduate-and-undergarduate-students",
+            },{id: "news-join-us-we-seek-motivated-graduate-and-undergarduate-students",
           title: 'Join Us: We seek motivated graduate and undergarduate students.',
+          description: "",
+          section: "News",},{id: "news-our-paper-has-been-published-in-the-prestigious-nature-portfolio-journal-npj-imaging",
+          title: 'Our paper has been published in the prestigious Nature Portfolio journal, npj Imaging!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
