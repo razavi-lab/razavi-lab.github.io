@@ -12,11 +12,15 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: MohammadRazavi.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>mrazavi2@unl.edu</p>
+      <p>W17 Nebraska Hall</p>
+    
+    # more_info: >
+    #   <p>555 your office number</p>
+    #   <p>123 your address street</p>
+    #   <p>Your City, State 12345</p>
   # - align: left
   #   image: prof_pic.jpg
   #   content: MohammadRazavi.md
