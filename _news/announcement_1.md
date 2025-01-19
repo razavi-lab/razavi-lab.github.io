@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We're excited to share that our paper has been published in the prestigious Nature Portfolio journal, npj Imaging! :sparkles
+Our paper has been published in the prestigious Nature Portfolio journal, npj Imaging!
