@@ -32,16 +32,32 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <h2>Mission Statement</h2>
-<p>The lymphatic system, consisting of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body and plays a central role in maintaining health. It is critically involved in various inflammatory diseases and chronic conditions, including cancer. Despite its importance, the complexities of lymphatic function and disease remain underexplored.
+## Mission Statement  
+The lymphatic system, composed of lymphatic vessels and lymph nodes, is a crucial component of nearly every organ in the body. It plays a central role in maintaining health and is intricately involved in various inflammatory diseases and chronic conditions, including cancer. Despite its significance, the complexities of lymphatic function and disease remain underexplored.  
 
-Our lab is committed to advancing the understanding of lymphatic biology and pathology through innovative, multidisciplinary approaches. These include computational modeling, advanced imaging techniques, and tissue-engineered models. By combining these tools, we aim to uncover the fundamental mechanisms that drive lymphatic function and dysfunction.
+Our lab is dedicated to advancing the understanding of lymphatic biology and pathology through innovative, multidisciplinary approaches. These include:  
+- Computational modeling  
+- Advanced imaging techniques  
+- Tissue-engineered models  
 
-Our long-term mission is to translate these discoveries into impactful solutions that improve human health and well-being. 
+By integrating these cutting-edge tools, we aim to uncover the fundamental mechanisms that drive lymphatic function and dysfunction. Our ultimate mission is to translate these discoveries into impactful solutions to improve human health and well-being.  
 
-### Research Focus Areas
-Our research is centered around three primary objectives:
-1. **Computational Modeling of Lymphatic and Lymph Node Biomechanics** – Developing sophisticated models to simulate lymphatic dynamics and uncover the mechanical principles underlying their role in health and disease.  
-2. **Lymphatic Tissue Engineering** – Designing and implementing tissue-engineered models to investigate lymphatic biomechanics and pathology in controlled environments.  
-3. **Advanced Imaging Techniques** – Creating state-of-the-art imaging tools to quantify lymphatic pumping and flow dynamics in both healthy and diseased conditions.
+---  
 
-Through these efforts, we strive to bridge fundamental research with clinical applications, driving advancements in the prevention, diagnosis, and treatment of lymphatic diseases.</p>
+## Research Focus Areas  
+
+Our research is guided by three primary objectives:  
+
+### 1. Computational Modeling of Lymphatic and Lymph Node Biomechanics  
+We develop sophisticated models to simulate lymphatic dynamics and uncover the mechanical principles underlying their role in health and disease.  
+
+### 2. Lymphatic Tissue Engineering  
+Our team designs and implements tissue-engineered models to investigate lymphatic biomechanics and pathology in controlled environments.  
+
+### 3. Advanced Imaging Techniques  
+We create state-of-the-art imaging tools to quantify lymphatic pumping and flow dynamics in both healthy and diseased conditions.  
+
+---  
+
+Through these efforts, we aim to bridge fundamental research with clinical applications, driving advancements in the prevention, diagnosis, and treatment of lymphatic diseases.
+
