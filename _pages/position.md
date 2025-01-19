@@ -9,7 +9,7 @@ nav_order: 6
 <!-- 
 **Open Positions**   -->
 
-<p>We are seeking motivated and creative graduate and undergraduate researchers to join our team!</p>  
+<p>We seek motivated and creative graduate and undergraduate researchers to join our group!</p>  
 
 ### Graduate Students: How to Apply  
 <p>Interested candidates should apply to either the <a href="https://engineering.unl.edu/graduate-programs/biomedical-engineering-phd/">Biomedical Engineering (BME) Program</a> or the <a href="https://engineering.unl.edu/mme/mme-graduate-programs/">Mechanical and Materials Engineering (MME) Program</a>.</p>  
