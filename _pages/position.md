@@ -18,7 +18,7 @@ nav_order: 6
 <ul>  
   <li><strong>CV</strong></li>
   <li><strong>Contact information for three references</strong></li>
-   <li><strong>Cover letter</strong> describing your research interests and how you can contribute to our group</li>
+   <li><strong>Cover letter</strong>: Describing your research interests and how you can contribute to our group</li>
 </ul>  
 
 <p>For additional details, visit <a href="https://graduate.unl.edu/admissions/faq/">UNL Graduate Admissions FAQ</a>.</p>  
