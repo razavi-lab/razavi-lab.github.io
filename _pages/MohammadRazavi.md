@@ -1,8 +1,6 @@
 ### Dr. Mohammad Razavi  
 **Assistant Professor of Biomedical Engineering**
 
----
-
 **Education:**
 - **Postdoc:** Harvard Medical School and Massachusetts General Hospital (2024)  
 - **PhD:** Georgia Institute of Technology, Bioengineering and Mechanical Engineering (2019)  
