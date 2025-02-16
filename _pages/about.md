@@ -31,15 +31,15 @@ social: false # includes social icons at the bottom of the page
 
 ---
 ## Mission Statement
-
+<details> <summary>Click to expand</summary> 
 The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body. It plays a central role in maintaining tissue homeostasis, immune surveillance, and lipid transport. The lymphatic system is involved in various inflammatory diseases and chronic conditions, such as cancer. Despite its fundamental role in human health, many aspects of its function and dysfunction remain poorly understood.
 
-Our lab is dedicated to advancing the understanding of lymphatic biology and pathology through innovative approaches that leverage state-of-the-art computational and experimental techniques. Our current research focuses include:
+Our lab integrates computational modeling, bioengineering, and experimental approaches to uncover the mechanisms underlying lymphatic function in health and disease. Our research is centered on three core areas:
 
 - **Lymphatic Biomechanics:** Investigating the influence of mechanical forces on lymphatic vessel function, immune cell trafficking, and disease progression.
 
 - **Lymphatic Tissue Engineering:** Developing biomimetic models and regenerative strategies to restore and enhance lymphatic function.
-- **LAdvanced Imaging:** Leveraging cutting-edge imaging technologies to visualize and quantify lymphatic pumping dynamics in physiological and pathological states.
+- **LAdvanced Imaging:** Leveraging cutting-edge imaging technologies to visualize and quantify lymphatic pumping dynamics in physiological and pathological states. <details>
 
-Our lab integrates computational modeling, bioengineering, and experimental approaches to uncover the mechanisms underlying lymphatic function in health and disease. Our research is centered on three core areas:
+
 
