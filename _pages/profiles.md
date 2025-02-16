@@ -12,10 +12,8 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: MohammadRazavi.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>mrazavi2@unl.edu</p>
-      <p>W17 Nebraska Hall</p>
     
     # more_info: >
     #   <p>555 your office number</p>
