@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: profiles
 permalink: /members/
 title: Team
@@ -30,8 +30,8 @@ profiles:
   #     <p>123 your address street</p>
   #     <p>Your City, State 12345</p>
 
---- -->
 ---
+<!-- ---
 layout: profiles
 permalink: /members/
 title: Team
@@ -49,7 +49,7 @@ profiles:
       <p style="text-align:center; font-weight:bold;">Dr. Mohammad Razavi</p>
       <p style="text-align:center;">📧 <a href="mailto:mrazavi2@unl.edu">mrazavi2@unl.edu</a></p>
       <p style="text-align:center;">📍 W17 Nebraska Hall</p>
----
+--- -->
 
   <!-- # Graduate Researchers
   - align: left
