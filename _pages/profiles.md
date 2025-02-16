@@ -32,6 +32,7 @@ profiles:
     image: 
     content: GradResearcher1.md
     image_circular: false
+    more_info: undergrad
     # more_info: >
     #   <p style="font-weight:bold;">Graduate Researcher 1</p>
     #   <p>📧 <a href="mailto:grad1@unl.edu">grad1@unl.edu</a></p>
