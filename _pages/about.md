@@ -39,6 +39,3 @@ Our lab integrates computational modeling, bioengineering, and experimental appr
 
 - **Lymphatic Tissue Engineering:** Developing biomimetic models and regenerative strategies to restore and enhance lymphatic function.
 - **LAdvanced Imaging:** Leveraging cutting-edge imaging technologies to visualize and quantify lymphatic pumping dynamics in physiological and pathological states.
-
-
-
