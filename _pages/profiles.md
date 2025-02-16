@@ -34,8 +34,8 @@ profiles:
 ---
 layout: profiles
 permalink: /members/
-title: Meet Our Team
-description: "A diverse group of researchers dedicated to advancing engineering and biomedical sciences."
+title: Team
+description: 
 nav: true
 nav_order: 7
 
@@ -50,7 +50,7 @@ profiles:
       <p style="text-align:center;">📧 <a href="mailto:mrazavi2@unl.edu">mrazavi2@unl.edu</a></p>
       <p style="text-align:center;">📍 W17 Nebraska Hall</p>
 
-  # Graduate Researchers
+  <!-- # Graduate Researchers
   - align: left
     image: grad_researcher1.jpg
     content: GradResearcher1.md
@@ -88,4 +88,4 @@ profiles:
       <p>📧 <a href="mailto:undergrad2@unl.edu">undergrad2@unl.edu</a></p>
       <p>📍 Research Lab, Nebraska Hall</p>
 
-
+ -->
