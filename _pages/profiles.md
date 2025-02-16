@@ -49,6 +49,7 @@ profiles:
       <p style="text-align:center; font-weight:bold;">Dr. Mohammad Razavi</p>
       <p style="text-align:center;">📧 <a href="mailto:mrazavi2@unl.edu">mrazavi2@unl.edu</a></p>
       <p style="text-align:center;">📍 W17 Nebraska Hall</p>
+---
 
   <!-- # Graduate Researchers
   - align: left
