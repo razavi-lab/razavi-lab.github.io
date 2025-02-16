@@ -35,8 +35,8 @@ The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital 
 
 Our lab integrates computational modeling, bioengineering, and experimental approaches to uncover the mechanisms underlying lymphatic function in health and disease. Our research is centered on three core areas:
 
-- **Lymphatic Biomechanics:** Investigating the role of mechanical forces on lymphatic system function, immune cell trafficking, and disease progression.
+- **Lymphatic Biomechanics:** Investigating the effect of mechanical forces on lymphatic vessel function, immune cell trafficking, and disease progression.
 
 - **Lymphatic Tissue Engineering:** Developing biomimetic models and regenerative strategies to restore and enhance lymphatic function.
 
-- **Lymphatic Imaging:** Leveraging state-of-the-art imaging technologies to visualize and quantify lymphatic pumping dynamics in physiological and pathological states.
+- **Lymphatic Imaging:** Leveraging cutting-edge imaging technologies to visualize and quantify lymphatic pumping dynamics in physiological and pathological states.
