@@ -33,7 +33,7 @@ profiles:
   - align: right
     image: 
     content: GradResearcher1.md
-    image_circular: true
+    image_circular: false
     # more_info: >
     #   <p style="font-weight:bold;">Graduate Researcher 1</p>
     #   <p>📧 <a href="mailto:grad1@unl.edu">grad1@unl.edu</a></p>
@@ -42,7 +42,7 @@ profiles:
   - align: right
     image: 
     content: GradResearcher2.md
-    image_circular: true
+    image_circular: false
     # more_info: >
     #   <p style="font-weight:bold;">Graduate Researcher 2</p>
     #   <p>📧 <a href="mailto:grad2@unl.edu">grad2@unl.edu</a></p>
