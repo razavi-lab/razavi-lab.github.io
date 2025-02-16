@@ -87,5 +87,5 @@ profiles:
       <p style="font-weight:bold;">Undergraduate Researcher 2</p>
       <p>📧 <a href="mailto:undergrad2@unl.edu">undergrad2@unl.edu</a></p>
       <p>📍 Research Lab, Nebraska Hall</p>
----
+
 
