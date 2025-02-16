@@ -32,12 +32,14 @@ social: false # includes social icons at the bottom of the page
 ---
 ## Mission Statement
 
-The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body. It plays a central role in maintaining tissue homeostasis, immune surveillance, and lipid transport. The lymphatic system is involved in various inflammatory diseases and chronic conditions, such as cancer. Despite its significance, the complexities of lymphatic function and disease remain underexplored.
+The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body. It plays a central role in maintaining tissue homeostasis, immune surveillance, and lipid transport. The lymphatic system is involved in various inflammatory diseases and chronic conditions, such as cancer. Despite its fundamental role in human health, many aspects of its function and dysfunction remain poorly understood.
 
 Our lab is dedicated to advancing the understanding of lymphatic biology and pathology through innovative approaches that leverage state-of-the-art computational and experimental techniques. Our current research focuses include:
 
-- **Lymphatic and Lymph Node Biomechanics**
-- **Lymphatic Tissue Engineering**
-- **Advanced Imaging Techniques for Lymphatic Pumping**
+- **Lymphatic Biomechanics:** Investigating the influence of mechanical forces on lymphatic vessel function, immune cell trafficking, and disease progression.
 
-We closely collaborate with clinicians, biologists and engineers. Our ultimate mission is to translate these discoveries into impactful innovations and strategies for the prevention, diagnosis, and treatment of lymphatic diseases.
+- **Lymphatic Tissue Engineering:** Developing biomimetic models and regenerative strategies to restore and enhance lymphatic function.
+- **LAdvanced Imaging:** Leveraging cutting-edge imaging technologies to visualize and quantify lymphatic pumping dynamics in physiological and pathological states.
+
+Our lab integrates computational modeling, bioengineering, and experimental approaches to uncover the mechanisms underlying lymphatic function in health and disease. Our research is centered on three core areas:
+
