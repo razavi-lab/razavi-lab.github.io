@@ -31,7 +31,7 @@ profiles:
   #     <p>Your City, State 12345</p>
   # Graduate Researchers
   - align: left
-    image: grad_researcher1.jpg
+    image: prof_pic.jpg
     content: GradResearcher1.md
     image_circular: true
     more_info: >
@@ -40,7 +40,7 @@ profiles:
       <p>📍 W20 Nebraska Hall</p>
 
   - align: right
-    image: grad_researcher2.jpg
+    image: prof_pic.jpg
     content: GradResearcher2.md
     image_circular: true
     more_info: >
