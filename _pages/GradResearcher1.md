@@ -1,8 +1,8 @@
 ###  
-**Assistant Professor of Biomedical Engineering**
+
 
 **Education:**
-- **PhD:** 
+
 
 
 **Biography**  
