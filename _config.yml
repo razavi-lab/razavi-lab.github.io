@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Lymphatic Mechanobiology &BioEngineering Lab (LMBL) # the website title (if blank, full name will be used instead)
+title: Lymphatic Biomechanics &BioEngineering Lab (LBBL) # the website title (if blank, full name will be used instead)
 first_name: Mohammad  
 middle_name: >
 last_name: Razavi
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Lymphatic Biomechanics &BioEngineering Lab (LBBL) 1
+  Lymphatic Biomechanics &BioEngineering Lab (LBBL) 
 footer_text: All rights reserved.
 keywords: lymphatics, computational modeling, biomechanics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
