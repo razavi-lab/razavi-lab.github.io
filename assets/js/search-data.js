@@ -64,12 +64,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-has-been-published-in-the-nature-portfolio-journal-npj-imaging",
           title: 'Our paper has been published in the  Nature Portfolio journal, npj Imaging!',
           description: "",
-          section: "News",},{id: "news-angiogenesis",
-          title: 'Angiogenesis',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/Angiogenesis/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
