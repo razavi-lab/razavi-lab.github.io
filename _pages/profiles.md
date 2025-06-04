@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: profiles
 permalink: /members/
 title: Team
@@ -71,4 +71,44 @@ profiles:
       <p style="text-align:center; font-weight:bold;">Dr. Mohammad Razavi</p>
       <p style="text-align:center;">📧 <a href="mailto:mrazavi2@unl.edu">mrazavi2@unl.edu</a></p>
       <p style="text-align:center;">📍 W17 Nebraska Hall</p>
---- -->
+--- --> 
+
+---
+layout: profiles
+permalink: /members/
+title: Team
+description: Meet the talented individuals driving our research forward.
+nav: true
+nav_order: 7
+
+profiles:
+  # Faculty Lead
+  - align: center
+    image: prof_pic.jpg
+    content: MohammadRazavi.md
+    image_circular: true
+    more_info: >
+      <p style="text-align:center; font-weight:bold;">Dr. Mohammad Razavi</p>
+      <p style="text-align:center;">📧 <a href="mailto:mrazavi2@unl.edu">mrazavi2@unl.edu</a></p>
+      <p style="text-align:center;">📍 W17 Nebraska Hall</p>
+
+  # Graduate Researcher 1
+  - align: left
+    image: grad1.jpg
+    content: GradResearcher1.md
+    image_circular: true
+    more_info: >
+      <p style="font-weight:bold;">Sarah Johnson</p>
+      <p>📧 <a href="mailto:sjohnson@unl.edu">sjohnson@unl.edu</a></p>
+      <p>📍 W20 Nebraska Hall</p>
+
+  # Graduate Researcher 2
+  - align: right
+    image: grad2.jpg
+    content: GradResearcher2.md
+    image_circular: true
+    more_info: >
+      <p style="font-weight:bold;">Alex Kim</p>
+      <p>📧 <a href="mailto:akim@unl.edu">akim@unl.edu</a></p>
+      <p>📍 W21 Nebraska Hall</p>
+---
