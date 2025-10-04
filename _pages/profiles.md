@@ -58,31 +58,34 @@ profiles:
     more_info: >
 
   # -----------------------------------------------------
-  # Undergraduate Researchers Section
-  # -----------------------------------------------------
+# Undergraduate Researchers Section
+# -----------------------------------------------------
 
-  - header: "<h2 style='color:#0046ad; margin-top:40px;'>Undergraduate Researchers</h2>"
+- header: "<h2 style='color:#0046ad; margin-top:40px;'>Undergraduate Researchers</h2>"
 
-  - align: left
-    image: 
-    content: "<strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering"
-    image_circular: false
+- content: "
+<div style='display:flex; flex-wrap:wrap; gap:40px; justify-content:flex-start;'>
+  <div style='flex:1 1 calc(50% - 40px); min-width:250px;'>
+    <strong>Gabe Wiegrefe</strong><br>
+    B.S. Student, Biological Systems Engineering
+  </div>
 
-  - align: left
-    image: 
-    content: "<strong>Ricardo Rosas</strong><br>B.S. Student, Mechanical Engineering"
-    image_circular: false
+  <div style='flex:1 1 calc(50% - 40px); min-width:250px;'>
+    <strong>Ricardo Rosas</strong><br>
+    B.S. Student, Mechanical Engineering
+  </div>
 
-  - align: left
-    image: 
-    content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering"
-    image_circular: false
+  <div style='flex:1 1 calc(50% - 40px); min-width:250px;'>
+    <strong>Caroline Slama</strong><br>
+    B.S. Student, Biological Systems Engineering
+  </div>
 
-  - align: left
-    image: 
-    content: "<strong>Preston Pinkelman</strong><br>B.S. Student, Mechanical Engineering"
-    image_circular: false
-
+  <div style='flex:1 1 calc(50% - 40px); min-width:250px;'>
+    <strong>Preston Pinkelman</strong><br>
+    B.S. Student, Mechanical Engineering
+  </div>
+</div>
+"
 
 ---
 Alumni
