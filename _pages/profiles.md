@@ -87,4 +87,5 @@ profiles:
 
 
 ---
-Alumni
+## Mission Statement
+The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body. It plays a central role in maintaining tissue homeostasis, immune surveillance, and lipid transport. The lymphatic system is involved in various inflammatory diseases and chronic conditions, such as cancer. Despite its fundamental role in human health, many aspects of its function and dysfunction remain poorly understood.
