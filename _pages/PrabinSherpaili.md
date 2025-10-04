@@ -5,11 +5,11 @@
 
 
 **Biography**  
-# <details> <summary>Click to expand</summary>  </details>
+# <details> <summary>Click to expand</summary> 
 
 Prabin is originally from Nepal. His research focuses on computational modeling of lymph nodes, integrating fluid mechanics and multiphysics simulations to investigate lymph transport. Outside of research, he enjoys traveling, trekking, and cycling. 
 
-
+ </details>
 
 
 ---
