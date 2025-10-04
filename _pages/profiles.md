@@ -34,7 +34,7 @@ profiles:
     content: VeronicaKucharczyk.md
     image_circular: false
     more_info: >
-      <p style="font-weight:bold;"></p>
+      # <p style="font-weight:bold;">Resaerch Area: Lymphatic imaging 2</p>
       <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
       # <p>📍 D227 SCE</p>
 
