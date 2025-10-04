@@ -61,12 +61,29 @@ profiles:
 # -----------------------------------------------------
 # Undergraduate Researchers Section
 # -----------------------------------------------------
-
 - align: left
   image: 
-  content: "B.S. Student, Biological Systems Engineering"
+  content: "<strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering"
   image_circular: false
+  more_info: >
 
+- align: left
+  image: RicardoRosas.jpg
+  content: "<strong>Ricardo Rosas</strong><br>B.S. Student, Mechanical Engineering"
+  image_circular: false
+  more_info: >
+
+- align: left
+  image: CarolineSlama.jpg
+  content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering"
+  image_circular: false
+  more_info: >
+
+- align: left
+  image: PrestonPinkelman.jpg
+  content: "<strong>Preston Pinkelman</strong><br>B.S. Student, Mechanical Engineering"
+  image_circular: false
+  more_info: >
 
 
 ---
