@@ -58,34 +58,34 @@ profiles:
     more_info: >
 
 
-# -----------------------------------------------------
-# Undergraduate Researchers Section
-# -----------------------------------------------------
-- align: left
-  image: 
-  content: "<strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering"
-  image_circular: false
-  more_info: >
-
-- align: left
-  image: RicardoRosas.jpg
-  content: "<strong>Ricardo Rosas</strong><br>B.S. Student, Mechanical Engineering"
-  image_circular: false
-  more_info: >
-
-- align: left
-  image: CarolineSlama.jpg
-  content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering"
-  image_circular: false
-  more_info: >
-
-- align: left
-  image: PrestonPinkelman.jpg
-  content: "<strong>Preston Pinkelman</strong><br>B.S. Student, Mechanical Engineering"
-  image_circular: false
-  more_info: >
 
 
 ---
-## Mission Statement
-The lymphatic system, composed of lymphatic vessels and lymph nodes, is a vital component of nearly every organ in the body. It plays a central role in maintaining tissue homeostasis, immune surveillance, and lipid transport. The lymphatic system is involved in various inflammatory diseases and chronic conditions, such as cancer. Despite its fundamental role in human health, many aspects of its function and dysfunction remain poorly understood.
+
+## <span style="color:#0046ad;">Undergraduate Researchers</span>
+
+<div style="display:flex; flex-wrap:wrap; gap:40px; margin-top:20px;">
+  <div style="flex:1 1 200px; text-align:center;">
+    <img src="/assets/img/GabeWiegrefe.jpg" alt="Gabe Wiegrefe" style="width:150px; border-radius:8px;"><br>
+    <strong>Gabe Wiegrefe</strong><br>
+    B.S. Student, Biological Systems Engineering
+  </div>
+
+  <div style="flex:1 1 200px; text-align:center;">
+    <img src="/assets/img/RicardoRosas.jpg" alt="Ricardo Rosas" style="width:150px; border-radius:8px;"><br>
+    <strong>Ricardo Rosas</strong><br>
+    B.S. Student, Mechanical Engineering
+  </div>
+
+  <div style="flex:1 1 200px; text-align:center;">
+    <img src="/assets/img/CarolineSlama.jpg" alt="Caroline Slama" style="width:150px; border-radius:8px;"><br>
+    <strong>Caroline Slama</strong><br>
+    B.S. Student, Biological Systems Engineering
+  </div>
+
+  <div style="flex:1 1 200px; text-align:center;">
+    <img src="/assets/img/PrestonPinkelman.jpg" alt="Preston Pinkelman" style="width:150px; border-radius:8px;"><br>
+    <strong>Preston Pinkelman</strong><br>
+    B.S. Student, Mechanical Engineering
+  </div>
+</div>
