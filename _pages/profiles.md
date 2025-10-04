@@ -57,7 +57,7 @@ profiles:
 
 ---
 
-## Undergraduate Researchers
+
 
 <div style="display:flex; flex-wrap:wrap; gap:40px; margin-top:20px;">
   <div style="flex:1 1 200px;">
