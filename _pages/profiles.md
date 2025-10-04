@@ -32,13 +32,13 @@ profiles:
   - align: left
     image: VeronicaKucharczyk.jpeg
     content: VeronicaKucharczyk.md
-    image_circular: true
+    image_circular: false
     more_info: >
       <p style="font-weight:bold;"></p>
       <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
       # <p>📍 D227 SCE</p>
 
-  - align: right
+  - align: left
     image: 
     content: PrabinSherpaili.md
     image_circular: false
