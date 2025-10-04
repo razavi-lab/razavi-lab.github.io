@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /members/
-title: People
+title: Team
 description: 
 nav: true
 nav_order: 2
@@ -57,11 +57,12 @@ profiles:
     image_circular: false
     more_info: >
 
-  # -----------------------------------------------------
+
+# -----------------------------------------------------
 # Undergraduate Researchers Section
 # -----------------------------------------------------
 
-- header: "<h2 style='color:#0046ad; margin-top:40px;'>Undergraduate Researchers</h2>"
+
 
 - content: "
 <div style='display:flex; flex-wrap:wrap; gap:40px; justify-content:flex-start;'>
