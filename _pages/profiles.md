@@ -9,7 +9,7 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: centre
+  - align: right
     image: prof_pic.jpg
     content: MohammadRazavi.md
     image_circular: false # crops the image to make it circular
@@ -29,23 +29,21 @@ profiles:
   #     <p>Your City, State 12345</p>
 
   # Graduate Researchers
-  - align: left
-    image: VeronicaKucharczyk.jpeg
-    content: VeronicaKucharczyk.md
-    image_circular: false
+  - align: right
+    image: GRA1.jpeg
+    content: GRA1.md
+    image_circular: true
     more_info: >
-      # <p style="font-weight:bold;">Resaerch Area: Lymphatic imaging 2</p>
-      <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
-      # <p>📍 D227 SCE</p>
+       <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
-  - align: left
+
+  - align: right
     image: 
     content: PrabinSherpaili.md
-    image_circular: false
+    image_circular: true
     more_info: >
-      # <p style="font-weight:bold;">Graduate Researcher 2</p>
       <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
-      # <p>📍 W21 Nebraska Hall</p>
+
 
 
 
