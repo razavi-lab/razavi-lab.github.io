@@ -1,5 +1,4 @@
 ### Prabin Sherpaili  
-
 **Ph.D. Student in Mechanical and Materials Engineering**  
 
 - B.S. in Aeronautical Engineering, Visvesvaraya Technological University, India  
