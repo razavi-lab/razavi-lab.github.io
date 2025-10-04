@@ -2,7 +2,7 @@
 
 **Ph.D. Student in Biomedical Engineering**  
 
-- **B.S. in Bioengineering**, University of Illinois at Urbana-Champaign (2025)  
+- B.S. in Bioengineering, University of Illinois at Urbana-Champaign (2025)  
 
 **Biography**  
 <details> <summary>Click to expand</summary>  
