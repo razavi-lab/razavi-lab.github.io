@@ -43,7 +43,7 @@ profiles:
 
 
   - align: right
-    image: 
+    image: Prabin_pic.jpeg
     content: PrabinSherpaili.md
     image_circular: true
     more_info: >
