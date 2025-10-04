@@ -61,8 +61,6 @@ profiles:
   # Undergraduate Researchers Section
   # -----------------------------------------------------
 
-  - header: "<h2 style='color:#0046ad; margin-top:40px;'>Undergraduate Researchers</h2>"
-
   - align: left
     image: 
     content: "<strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering<br><br>📧 <a href='mailto:gwiegrefe2@huskers.unl.edu'>gwiegrefe2@huskers.unl.edu</a><br><br>"
@@ -75,7 +73,7 @@ profiles:
 
   - align: left
     image: 
-    content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering<br><br>📧 <a href='mailto:cslama2@huskers.unl.edu'>cslama2@huskers.unl.edu</a><br><br>Research: ."
+    content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering<br><br>📧 <a href='mailto:cslama2@huskers.unl.edu'>cslama2@huskers.unl.edu</a><br><br>"
     image_circular: false
 
   - align: left
