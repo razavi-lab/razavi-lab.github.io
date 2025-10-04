@@ -28,7 +28,13 @@ profiles:
   #     <p>123 your address street</p>
   #     <p>Your City, State 12345</p>
 
-  # Graduate Researchers
+
+# -----------------------------------------------------
+# Graduate Students Section
+# -----------------------------------------------------
+graduate_students_header: |
+  <h2 style="color:#1E90FF; font-weight:bold; margin-top:30px;">Graduate Students</h2>
+
   - align: right
     image: GRA1.jpeg
     content: GRA1.md
@@ -46,7 +52,19 @@ profiles:
 
 
 
+# -----------------------------------------------------
+# Undergraduate Researchers Section
+# -----------------------------------------------------
+undergraduate_students_header: |
+  <h2 style="color:#1E90FF; font-weight:bold; margin-top:30px;">Undergraduate Researchers</h2>
 
+profiles:
+  - align: left
+    image: 
+    content: StudentName.md
+    image_circular: false
+    more_info: >
+      <p>📧 <a href="mailto:student@huskers.unl.edu">student@huskers.unl.edu</a></p>
 
 ---
 Alumni
