@@ -1,11 +1,9 @@
 ### Veronica Kucharczyk 
-**Graduate Research Assistant** 
 
+**Graduate Research Assistant**  
 
-**Education:** 
-- **BS:** University of Illinois at Urbana-Champaign (2025)
-
-
+**Education**  
+- **B.S. in Bioengineering**, University of Illinois at Urbana-Champaign (2025)  
 
 **Biography**  
 <details> <summary>Click to expand</summary>  
