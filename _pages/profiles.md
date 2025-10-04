@@ -30,7 +30,7 @@ profiles:
   # Graduate Researchers
   - align: left
     image: VeronicaKucharczyk.jpeg
-    content: GradResearcher1.md
+    content: VeronicaKucharczyk.md
     image_circular: false
     more_info: >
     # more_info: >
