@@ -34,22 +34,22 @@ profiles:
 # -----------------------------------------------------
 
 
-  - align: right
-    image: GRA1.jpeg
-    content: GRA1.md
-    image_circular: true
-    more_info: >
-       <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
 
   - align: right
     image: Prabin_pic.jpeg
     content: PrabinSherpaili.md
     image_circular: true
-    # more_info: >
-      # <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
+    more_info: 
+      <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
 
 
+  - align: right
+    image: Veronica.jpeg
+    content: GRA1.md
+    image_circular: true
+    more_info: 
+       <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
 
 
