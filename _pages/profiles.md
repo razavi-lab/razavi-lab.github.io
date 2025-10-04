@@ -51,12 +51,7 @@ profiles:
     # more_info: 
     #    <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
-- align: right
-    image: 
-    content: GRA3.md
-    image_circular: false
-    # more_info: 
-    #    <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
+
 
 ---
 Alumni
