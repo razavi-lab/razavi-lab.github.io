@@ -1,6 +1,6 @@
 ### Veronica Kucharczyk 
 
-**Graduate Research Assistant**  
+**Ph.D. Student in Bioengineering**  
 
 **Education**  
 - **B.S. in Bioengineering**, University of Illinois at Urbana-Champaign (2025)  
