@@ -3,6 +3,7 @@
 **Ph.D. Student in Biomedical Engineering**  
 
 - B.S. in Bioengineering, University of Illinois at Urbana-Champaign (2025)  
+<p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
 **Biography**  
 <details> <summary>Click to expand</summary>  

@@ -2,8 +2,7 @@
 **Ph.D. Student in Mechanical and Materials Engineering**  
 
 - **B.S. in Aeronautical Engineering**, Visvesvaraya Technological University, India  
-
-<p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>  
+<p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p> 
 
 **Biography**  
 <details>
