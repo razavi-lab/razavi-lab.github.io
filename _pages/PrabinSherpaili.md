@@ -1,5 +1,5 @@
 ### PrabinSherpaili 
-**Graduate Research Assistant** 
+**Ph.D. Student in Mechanical Engineering** 
 
 
 **Education:**
