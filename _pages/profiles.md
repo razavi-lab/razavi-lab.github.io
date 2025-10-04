@@ -38,7 +38,7 @@ profiles:
 
   - align: right
     image: Prabin_pic.jpeg
-    content: GRA1-PrabinSherpaili.md
+    content: GRA1_PrabinSherpaili.md
     image_circular: true
     # more_info: 
     #   <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
@@ -46,14 +46,14 @@ profiles:
 
   - align: right
     image: VeronicaK.jpeg
-    content: GRA2-Veronica.md
+    content: GRA2_Veronica.md
     image_circular: true
     # more_info: 
     #    <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
 - align: right
     image: 
-    content: GRA3-RileyBlitt.md
+    content: GRA3_RileyBlitt.md
     image_circular: true
     # more_info: 
     #    <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
