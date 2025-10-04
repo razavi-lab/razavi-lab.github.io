@@ -45,7 +45,7 @@ profiles:
 
 
   - align: right
-    image: Veronica.jpeg
+    image: VeronicaK.jpeg
     content: GRA1.md
     image_circular: true
     # more_info: 
