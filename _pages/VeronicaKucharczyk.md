@@ -1,6 +1,6 @@
 ### Veronica Kucharczyk 
 
-**Ph.D. Student in Bioengineering**  
+**Ph.D. Student in Biomedical Engineering**  
 
 **Education**  
 - **B.S. in Bioengineering**, University of Illinois at Urbana-Champaign (2025)  
