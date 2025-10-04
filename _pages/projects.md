@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: > #Lab members
 nav: true
-nav_order: 4
+nav_order: 3
 display_categories: > #[work, work]
 horizontal: false
 ---
