@@ -61,24 +61,26 @@ profiles:
   # Undergraduate Researchers Section
   # -----------------------------------------------------
 
+  - header: "<h2 style='color:#0046ad; margin-top:40px;'>Undergraduate Researchers</h2>"
+
   - align: left
     image: 
-    content: "<strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering<br><br>📧 <a href='mailto:gwiegrefe2@huskers.unl.edu'>gwiegrefe2@huskers.unl.edu</a><br><br>"
+    content: "<strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering"
     image_circular: false
 
   - align: left
     image: 
-    content: "<strong>Ricardo Rosas</strong><br>B.S. Student, Mechanical Engineering<br><br>📧 <a href='mailto:rrosas2@huskers.unl.edu'>rrosas2@huskers.unl.edu</a><br><br>"
+    content: "<strong>Ricardo Rosas</strong><br>B.S. Student, Mechanical Engineering"
     image_circular: false
 
   - align: left
     image: 
-    content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering<br><br>📧 <a href='mailto:cslama2@huskers.unl.edu'>cslama2@huskers.unl.edu</a><br><br>"
+    content: "<strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering"
     image_circular: false
 
   - align: left
     image: 
-    content: "<strong>Preston Pinkelman</strong><br>B.S. Student, Mechanical Engineering<br><br>📧 <a href='mailto:ppinkelman2@huskers.unl.edu'>ppinkelman2@huskers.unl.edu</a><br><br>"
+    content: "<strong>Preston Pinkelman</strong><br>B.S. Student, Mechanical Engineering"
     image_circular: false
 
 
