@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: MohammadRazavi.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
     
     # more_info: >
@@ -46,8 +46,8 @@ profiles:
     image: Prabin_pic.jpeg
     content: PrabinSherpaili.md
     image_circular: true
-    more_info: >
-      <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
+    # more_info: >
+      # <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
 
 
 
