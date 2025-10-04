@@ -32,8 +32,7 @@ profiles:
 # -----------------------------------------------------
 # Graduate Students Section
 # -----------------------------------------------------
-graduate_students_header: |
-  <h2 style="color:#1E90FF; font-weight:bold; margin-top:30px;">Graduate Students</h2>
+
 
   - align: right
     image: GRA1.jpeg
