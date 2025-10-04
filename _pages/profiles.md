@@ -34,17 +34,17 @@ profiles:
     content: VeronicaKucharczyk.md
     image_circular: true
     more_info: >
-      <p style="font-weight:bold;">Graduate Researcher 1</p>
+      <p style="font-weight:bold;"></p>
       <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
-      <p>📍 W20 Nebraska Hall</p>
+      # <p>📍 D227 SCE</p>
 
   - align: right
     image: 
     content: PrabinSherpaili.md
     image_circular: false
     more_info: >
-      <p style="font-weight:bold;">Graduate Researcher 2</p>
-      <p>📧 <a href="mailto:grad2@unl.edu">grad2@unl.edu</a></p>
+      # <p style="font-weight:bold;">Graduate Researcher 2</p>
+      <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
       <p>📍 W21 Nebraska Hall</p>
 
 
