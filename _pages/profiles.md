@@ -45,7 +45,7 @@ profiles:
     more_info: >
       # <p style="font-weight:bold;">Graduate Researcher 2</p>
       <p>📧 <a href="mailto:psherpaili2@huskers.unl.edu">psherpaili2@huskers.unl.edu</a></p>
-      <p>📍 W21 Nebraska Hall</p>
+      # <p>📍 W21 Nebraska Hall</p>
 
 
 
