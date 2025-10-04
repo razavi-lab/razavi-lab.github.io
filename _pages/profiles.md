@@ -60,26 +60,22 @@ profiles:
 ## Undergraduate Researchers
 
 <div style="display:flex; flex-wrap:wrap; gap:40px; margin-top:20px;">
-  <div style="flex:1 1 200px; text-align:center;">
-    <img src="/assets/img/GabeWiegrefe.jpg" alt="Gabe Wiegrefe" style="width:150px; border-radius:8px;"><br>
+  <div style="flex:1 1 200px;">
     <strong>Gabe Wiegrefe</strong><br>
     B.S. Student, Biological Systems Engineering
   </div>
 
-  <div style="flex:1 1 200px; text-align:center;">
-    <img src="/assets/img/RicardoRosas.jpg" alt="Ricardo Rosas" style="width:150px; border-radius:8px;"><br>
+  <div style="flex:1 1 200px;">
     <strong>Ricardo Rosas</strong><br>
     B.S. Student, Mechanical Engineering
   </div>
 
-  <div style="flex:1 1 200px; text-align:center;">
-    <img src="/assets/img/CarolineSlama.jpg" alt="Caroline Slama" style="width:150px; border-radius:8px;"><br>
+  <div style="flex:1 1 200px;">
     <strong>Caroline Slama</strong><br>
     B.S. Student, Biological Systems Engineering
   </div>
 
-  <div style="flex:1 1 200px; text-align:center;">
-    <img src="/assets/img/PrestonPinkelman.jpg" alt="Preston Pinkelman" style="width:150px; border-radius:8px;"><br>
+  <div style="flex:1 1 200px;">
     <strong>Preston Pinkelman</strong><br>
     B.S. Student, Mechanical Engineering
   </div>
