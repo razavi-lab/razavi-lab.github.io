@@ -57,12 +57,9 @@ profiles:
     image_circular: false
     more_info: >
 
-
-
-
 ---
-
-## <span style="color:#0046ad;">Undergraduate Researchers</span>
+## Undergrad Researcher
+<!-- ## <span style="color:#0046ad;">Undergraduate Researchers</span>
 
 <div style="display:flex; flex-wrap:wrap; gap:40px; margin-top:20px;">
   <div style="flex:1 1 200px; text-align:center;">
@@ -88,4 +85,4 @@ profiles:
     <strong>Preston Pinkelman</strong><br>
     B.S. Student, Mechanical Engineering
   </div>
-</div>
+</div> -->
