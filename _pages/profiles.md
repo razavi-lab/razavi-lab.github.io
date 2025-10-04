@@ -51,7 +51,12 @@ profiles:
     # more_info: 
     #    <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
-
+- align: right
+    image: 
+    content: RileyBlitt.md
+    image_circular: true
+    # more_info: 
+    #    <p>📧 <a href="mailto:vkucharczyk2@huskers.unl.edu">vkucharczyk2@huskers.unl.edu</a></p>
 
 ---
 Alumni
