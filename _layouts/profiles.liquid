@@ -47,7 +47,7 @@ layout: page
               <div class="student-card">
                 {% assign student_img = student.image | default: 'pic.jpeg' %}
                 {% assign student_img_path = student_img | prepend: 'assets/img/' %}
-                <img src="{{ student_img_path }}" alt="{{ student.name }}" />
+                <img src="{{ student_img_path }}" alt="{{ student.name }}">
                 <div class="student-name">{{ student.name }}</div>
                 {% if student.subtitle %}
                   <div class="student-subtitle">{{ student.subtitle }}</div>
