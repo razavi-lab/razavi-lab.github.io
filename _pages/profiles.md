@@ -68,7 +68,7 @@ profiles:
   more_info: >
 
 - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
-
+---
 ## Undergraduate Researchers
 
 <div class="undergrad-profile">
