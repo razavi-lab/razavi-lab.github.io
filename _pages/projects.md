@@ -8,7 +8,9 @@ nav_order: 3
 display_categories: > #[work, work]
 horizontal: false
 ---
+
 under construction
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}

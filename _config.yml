@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Lymphatic Biomechanics & BioEngineering Lab (LBBL) # the website title (if blank, full name will be used instead)
-first_name: Mohammad  
+first_name: Mohammad
 middle_name: >
 last_name: Razavi
 contact_note: >
@@ -119,11 +119,11 @@ disqus_shortname: razavi-lab # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
 #   - name: medium.com
-#     rss_url: 
+#     rss_url:
 #   - name: Google Blog
 #     posts:
-#       - url: 
-#         published_date: 
+#       - url:
+#         published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter

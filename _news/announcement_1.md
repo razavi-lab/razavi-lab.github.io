@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been published in the  Nature Portfolio journal, npj Imaging!
+Our paper has been published in the Nature Portfolio journal, npj Imaging!
