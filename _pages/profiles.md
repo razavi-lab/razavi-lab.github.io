@@ -35,20 +35,20 @@ profiles:
 
   # --- Undergrad Grid Section (NEW FEATURE) ---
   # --- Undergrad Grid Section ---
-  - grid: undergrads
-    students:
-      - name: "Gabe Wiegrefe"
-        subtitle: "B.S. Student, Biological Systems Engineering"
-        image: "pic.jpeg"
-      - name: "Ricardo Rosas"
-        subtitle: "B.S. Student, Mechanical Engineering"
-        image: "pic.jpeg"
-      - name: "Caroline Slama"
-        subtitle: "B.S. Student, Biological Systems Engineering"
-        image: "pic.jpeg"
-      - name: "Preston Pinkelman"
-        subtitle: "B.S. Student, Mechanical Engineering"
-        image: "pic.jpeg"
+- grid: undergrads
+  students:
+    - name: "<strong>Gabe Wiegrefe</strong>"
+      subtitle: "Biological Systems Engineering"
+      image: "pic.jpeg"
+    - name: "<strong>Ricardo Rosas</strong>"
+      subtitle: "Mechanical Engineering"
+      image: "pic.jpeg"
+    - name: "<strong>Caroline Slama</strong>"
+      subtitle: "Biological Systems Engineering"
+      image: "pic.jpeg"
+    - name: "<strong>Preston Pinkelman</strong>"
+      subtitle: "Mechanical Engineering"
+      image: "pic.jpeg"
 
   - header: "<h2 style='color:#0046ad;'>Alumni</h2>"
 ---
