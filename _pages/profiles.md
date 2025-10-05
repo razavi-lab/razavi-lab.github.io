@@ -23,8 +23,8 @@ profiles:
     content: GRA2.md
     image_circular: true
 
-  # --- Section Header for Undergraduates ---
-  - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
+  # # --- Section Header for Undergraduates ---
+  # - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
 
   # --- Undergrad Grid Section (NEW FEATURE) ---
   - grid: undergrads
