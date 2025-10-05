@@ -5,8 +5,7 @@ layout: page
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-
-        ---- Graduate Students ---- 
+        {# ---- Section header block (optional) ---- #}
         {% if profile.header %}
           <div class="profiles-section-header">
             {{ profile.header }}
@@ -14,7 +13,7 @@ layout: page
           {% continue %}
         {% endif %}
 
-        
+        {# ---- Undergrads grid (optional two-per-row) ---- #}
         {% if profile.grid == 'undergrads' and profile.students %}
           <div class="ugrid">
             {% for s in profile.students %}
@@ -41,6 +40,7 @@ layout: page
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
             {% endif %}
 
+            {# NOTE: fixed sizes string (removed stray closing quote) #}
             {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
 
@@ -58,7 +58,6 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
-
       {% endfor %}
     {% endif %}
   </article>
