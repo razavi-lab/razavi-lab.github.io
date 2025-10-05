@@ -57,26 +57,9 @@ profiles:
 
 ---
 
+## Undergraduate Researchers
 
-
-<div style="display:flex; flex-wrap:wrap; gap:40px; margin-top:20px;">
-  <div style="flex:1 1 200px;">
-    <strong>Gabe Wiegrefe</strong><br>
-    B.S. Student, Biological Systems Engineering
-  </div>
-
-  <div style="flex:1 1 200px;">
-    <strong>Ricardo Rosas</strong><br>
-    B.S. Student, Mechanical Engineering
-  </div>
-
-  <div style="flex:1 1 200px;">
-    <strong>Caroline Slama</strong><br>
-    B.S. Student, Biological Systems Engineering
-  </div>
-
-  <div style="flex:1 1 200px;">
-    <strong>Preston Pinkelman</strong><br>
-    B.S. Student, Mechanical Engineering
-  </div>
-</div>
+| | |
+|---|---|
+| **Gabe Wiegrefe**<br/>B.S. Student, Biological Systems Engineering | **Ricardo Rosas**<br/>B.S. Student, Mechanical Engineering |
+| **Caroline Slama**<br/>B.S. Student, Biological Systems Engineering | **Preston Pinkelman**<br/>B.S. Student, Mechanical Engineering |
