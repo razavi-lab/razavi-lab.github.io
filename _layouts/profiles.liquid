@@ -5,7 +5,6 @@ layout: page
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-
         {# ---- Section header block (optional) ---- #}
         {% if profile.header %}
           <div class="profiles-section-header">
@@ -15,12 +14,14 @@ layout: page
         {% endif %}
 
         {# ---- Undergrads grid (optional two-per-row) ---- #}
-        {% if profile.grid == "undergrads" and profile.students %}
+        {% if profile.grid == 'undergrads' and profile.students %}
           <div class="ugrid">
             {% for s in profile.students %}
               <div class="ucard">
                 <div class="uname">{{ s.name }}</div>
-                {% if s.subtitle %}<div class="usub">{{ s.subtitle }}</div>{% endif %}
+                {% if s.subtitle %}
+                  <div class="usub">{{ s.subtitle }}</div>
+                {% endif %}
               </div>
             {% endfor %}
           </div>
