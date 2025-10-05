@@ -12,6 +12,21 @@ layout: page
           <div class="profile-grid clearfix">
             {% for student in profile.students %}
               <div class="student-card">
+                {%- comment -%}
+                  Undergrad images: use student.image if provided; otherwise use a placeholder.
+                {%- endcomment -%}
+                {% assign student_img = student.image | default: 'pic.jpeg' %}
+                {% assign student_img_path = student_img | prepend: 'assets/img/' %}
+                {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
+                {%
+                  include figure.liquid
+                  loading="eager"
+                  path=student_img_path
+                  class="img-fluid z-depth-1 rounded"
+                  sizes=sizes
+                  alt=student.name
+                %}
+
                 <div class="student-name">{{ student.name }}</div>
                 {% if student.subtitle %}
                   <div class="student-subtitle">{{ student.subtitle }}</div>
@@ -30,7 +45,7 @@ layout: page
               {% else %}
                 {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
               {% endif %}
-              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
               {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
             {% endif %}
             {% if profile.more_info %}
