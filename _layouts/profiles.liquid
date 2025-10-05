@@ -26,10 +26,10 @@ layout: page
                   sizes=sizes
                   alt=student.name
                 %}
-              <div class="student-name">{{ student.name | markdownify | remove: "<p>" | remove: "</p>" }}</div>
-              {% if student.subtitle %}
-                <div class="student-subtitle">{{ student.subtitle }}</div>
-              {% endif %}
+                <div class="student-name">{{ student.name | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                {% if student.subtitle %}
+                  <div class="student-subtitle">{{ student.subtitle }}</div>
+                {% endif %}
               </div>
             {% endfor %}
           </div>
