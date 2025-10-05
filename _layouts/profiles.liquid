@@ -18,13 +18,13 @@ layout: page
     width: 120px; /* smaller image size */
     height: 120px;
     object-fit: cover;
-    border-radius: 8px;
+    border-radius: 8px; /* keep square with soft edges */
     margin-bottom: 10px;
   }
 
   .student-name {
-    font-weight: bold;
-    color: #00274c; /* UNL blue tone */
+    font-weight: 700; /* bold */
+    color: #000; /* black text */
     margin-bottom: 5px;
   }
 
@@ -47,7 +47,7 @@ layout: page
               <div class="student-card">
                 {% assign student_img = student.image | default: 'pic.jpeg' %}
                 {% assign student_img_path = student_img | prepend: 'assets/img/' %}
-                <img src="{{ student_img_path }}" alt="{{ student.name }}">
+                <img src="{{ student_img_path }}" alt="{{ student.name }}" />
                 <div class="student-name">{{ student.name }}</div>
                 {% if student.subtitle %}
                   <div class="student-subtitle">{{ student.subtitle }}</div>
