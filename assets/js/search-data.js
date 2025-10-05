@@ -62,7 +62,7 @@ ninja.data = [{
           title: 'Join Us: We seek motivated graduate and undergarduate students.',
           description: "",
           section: "News",},{id: "news-our-paper-has-been-published-in-the-nature-portfolio-journal-npj-imaging",
-          title: 'Our paper has been published in the  Nature Portfolio journal, npj Imaging!',
+          title: 'Our paper has been published in the Nature Portfolio journal, npj Imaging!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
