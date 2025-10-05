@@ -7,13 +7,13 @@ nav_order: 2
 
 profiles:
   # --- PI ---
-  # --- Section Header for Undergraduates ---
-
   - align: right
     image: prof_pic.jpg
     content: MohammadRazavi.md
     image_circular: true
-  - header: "<h2 style='color:#0046ad;'>Gradute Researchers</h2>"
+
+  - header: "<h2 style='color:#0046ad;'>Graduate Researchers</h2>"
+
   # --- Graduate Students ---
   - align: left
     image: Prabin_pic.jpeg
@@ -33,22 +33,21 @@ profiles:
   # --- Section Header for Undergraduates ---
   - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
 
-  # --- Undergrad Grid Section (NEW FEATURE) ---
   # --- Undergrad Grid Section ---
-- grid: undergrads
-  students:
-    - name: "<strong>Gabe Wiegrefe</strong>"
-      subtitle: "Biological Systems Engineering"
-      image: "pic.jpeg"
-    - name: "<strong>Ricardo Rosas</strong>"
-      subtitle: "Mechanical Engineering"
-      image: "pic.jpeg"
-    - name: "<strong>Caroline Slama</strong>"
-      subtitle: "Biological Systems Engineering"
-      image: "pic.jpeg"
-    - name: "<strong>Preston Pinkelman</strong>"
-      subtitle: "Mechanical Engineering"
-      image: "pic.jpeg"
+  - grid: undergrads
+    students:
+      - name: "<strong>Gabe Wiegrefe</strong>"
+        subtitle: "Biological Systems Engineering"
+        image: "pic.jpeg"
+      - name: "<strong>Ricardo Rosas</strong>"
+        subtitle: "Mechanical Engineering"
+        image: "pic.jpeg"
+      - name: "<strong>Caroline Slama</strong>"
+        subtitle: "Biological Systems Engineering"
+        image: "pic.jpeg"
+      - name: "<strong>Preston Pinkelman</strong>"
+        subtitle: "Mechanical Engineering"
+        image: "pic.jpeg"
 
   - header: "<h2 style='color:#0046ad;'>Alumni</h2>"
 ---
