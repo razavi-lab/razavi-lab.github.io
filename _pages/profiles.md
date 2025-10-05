@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /members/
 title: People
-description: 
+description:
 nav: true
 nav_order: 2
 
@@ -14,7 +14,7 @@ profiles:
     content: MohammadRazavi.md
     image_circular: true # crops the image to make it circular
     more_info: >
-    
+
     # more_info: >
     #   <p>555 your office number</p>
     #   <p>123 your address street</p>
@@ -28,20 +28,15 @@ profiles:
   #     <p>123 your address street</p>
   #     <p>Your City, State 12345</p>
 
-
-# -----------------------------------------------------
-# Graduate Students Section
-# -----------------------------------------------------
-
-
-
+  # -----------------------------------------------------
+  # Graduate Students Section
+  # -----------------------------------------------------
 
   - align: right
     image: Prabin_pic.jpeg
     content: GRA1.md
     image_circular: true
     more_info: >
-
 
   - align: right
     image: VeronicaK.jpeg
@@ -50,16 +45,15 @@ profiles:
     more_info: >
 
   - align: right
-    image: 
+    image:
     content: GRA3.md
     image_circular: false
     more_info: >
-
 ---
 
 ## Undergraduate Researchers
 
-| | |
-|---|---|
-| **Gabe Wiegrefe**<br/>B.S. Student, Biological Systems Engineering | **Ricardo Rosas**<br/>B.S. Student, Mechanical Engineering |
+|                                                                     |                                                                |
+| ------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Gabe Wiegrefe**<br/>B.S. Student, Biological Systems Engineering  | **Ricardo Rosas**<br/>B.S. Student, Mechanical Engineering     |
 | **Caroline Slama**<br/>B.S. Student, Biological Systems Engineering | **Preston Pinkelman**<br/>B.S. Student, Mechanical Engineering |
