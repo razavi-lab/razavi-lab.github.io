@@ -65,29 +65,9 @@ profiles:
     image_circular: false
     more_info: >
 
-  - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
----
-
+  ---
 ## Undergraduate Researchers
 
-<div class="undergrad-profile">
-  <div class="student">
-    <div class="placeholder"></div>
-    <strong>Gabe Wiegrefe</strong><br>B.S. Student, Biological Systems Engineering
-  </div>
-
-  <div class="student">
-    <div class="placeholder"></div>
-    <strong>Ricardo Rosas</strong><br>B.S. Student, Mechanical Engineering
-  </div>
-
-  <div class="student">
-    <div class="placeholder"></div>
-    <strong>Caroline Slama</strong><br>B.S. Student, Biological Systems Engineering
-  </div>
-
-  <div class="student">
-    <div class="placeholder"></div>
-    <strong>Preston Pinkelman</strong><br>B.S. Student, Mechanical Engineering
-  </div>
-</div>
+| **Gabe Wiegrefe**<br>B.S. Student, Biological Systems Engineering | **Ricardo Rosas**<br>B.S. Student, Mechanical Engineering |
+| ------------------------------------------------------------------ | ----------------------------------------------------------- |
+| **Caroline Slama**<br>B.S. Student, Biological Systems Engineering | **Preston Pinkelman**<br>B.S. Student, Mechanical Engineering |
