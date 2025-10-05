@@ -5,59 +5,50 @@ layout: page
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-        {# ---- Section header block (optional) ---- #}
-        {% if profile.header %}
-          <div class="profiles-section-header">
-            {{ profile.header }}
-          </div>
-          {% continue %}
-        {% endif %}
 
-        {# ---- Undergrads grid (optional two-per-row) ---- #}
-        {% if profile.grid == 'undergrads' and profile.students %}
-          <div class="ugrid">
-            {% for s in profile.students %}
-              <div class="ucard">
-                <div class="uname">{{ s.name }}</div>
-                {% if s.subtitle %}
-                  <div class="usub">{{ s.subtitle }}</div>
+        {% if profile.header %}
+          <div class="clearfix">{{ profile.header }}</div>
+
+        {% elsif profile.grid %}
+          <div class="profile-grid clearfix">
+            {% for student in profile.students %}
+              <div class="student-card">
+                <div class="student-name">{{ student.name }}</div>
+                {% if student.subtitle %}
+                  <div class="student-subtitle">{{ student.subtitle }}</div>
                 {% endif %}
               </div>
             {% endfor %}
           </div>
-          {% continue %}
-        {% endif %}
 
-        <hr>
-
-        {% assign has_image = profile.image and profile.image != "" %}
-        {% if has_image %}
+        {% else %}
+          <hr>
           <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+            {% if profile.image %}
+              {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+              {% if profile.image_circular %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+              {% else %}
+                {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+              {% endif %}
+              {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
+              {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
             {% endif %}
-
-            {# NOTE: fixed sizes string (removed stray closing quote) #}
-            {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3 }}px, (min-width: 576px) 30vw, 95vw{% endcapture %}
-            {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
-
             {% if profile.more_info %}
               <div class="more-info">{{ profile.more_info }}</div>
             {% endif %}
           </div>
-        {% endif %}
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-        </div>
+          <div class="clearfix">
+            {% if profile.content %}
+              {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+              {{ profile_content | markdownify }}
+            {% else %}
+              {{ content }}
+            {% endif %}
+          </div>
+        {% endif %}
+      
       {% endfor %}
     {% endif %}
   </article>
