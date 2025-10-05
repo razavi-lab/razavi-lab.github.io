@@ -23,18 +23,24 @@ profiles:
     content: GRA2.md
     image_circular: true
 
-  # # --- Section Header for Undergraduates ---
-  # - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
+    - align: left
+    image: 
+    content: GRA3.md
+    image_circular: true
 
-  # --- Undergrad Grid Section (NEW FEATURE) ---
+  # --- Undergrad Grid Section ---
   - grid: undergrads
     students:
       - name: "Gabe Wiegrefe"
         subtitle: "B.S. Student, Biological Systems Engineering"
+        image: "placeholder.png"
       - name: "Ricardo Rosas"
         subtitle: "B.S. Student, Mechanical Engineering"
+        image: "placeholder.png"
       - name: "Caroline Slama"
         subtitle: "B.S. Student, Biological Systems Engineering"
+        image: "placeholder.png"
       - name: "Preston Pinkelman"
         subtitle: "B.S. Student, Mechanical Engineering"
+        image: "placeholder.png"
 ---
