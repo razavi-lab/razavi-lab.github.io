@@ -7,6 +7,8 @@ nav_order: 2
 
 profiles:
   # --- PI ---
+  # --- Section Header for Undergraduates ---
+
   - align: right
     image: prof_pic.jpg
     content: MohammadRazavi.md
@@ -42,6 +44,6 @@ profiles:
       - name: "Preston Pinkelman"
         subtitle: "B.S. Student, Mechanical Engineering"
         image: "pic.jpeg"
----
 
+  - header: "<h2 style='color:#0046ad;'>Alumni</h2>"
 ---
