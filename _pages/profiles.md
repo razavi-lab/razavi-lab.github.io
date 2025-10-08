@@ -48,6 +48,9 @@ profiles:
       - name: "<strong>Preston Pinkelman</strong>"
         subtitle: "Mechanical Engineering"
         image: "pic.jpeg"
+      - name: "<strong>Daniel Ames</strong>"
+        subtitle: "Mechanical Engineering"
+        image: "pic.jpeg"
 
   - header: "<h2 style='color:#0046ad;'>Alumni</h2>"
 ---
