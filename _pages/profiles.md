@@ -26,7 +26,7 @@ profiles:
     image_circular: true
 
   - align: left
-    image: pic.jpeg
+    image: GRA3.jpg
     content: GRA3.md
     image_circular: true
 
