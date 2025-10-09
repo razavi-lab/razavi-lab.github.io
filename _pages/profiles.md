@@ -52,5 +52,5 @@ profiles:
         subtitle: "Mechanical Engineering"
         image: "pic.jpeg"
 
-  - header: "<h2 style='color:#0046ad;'>Alumni</h2>"
+  - header: "<h2 style='color:#0046ad;'>Previous lab members</h2>"
 ---
