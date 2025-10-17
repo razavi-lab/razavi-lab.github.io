@@ -41,7 +41,7 @@ profiles:
         image: "pic.jpeg"
       - name: "<strong>Ricardo Rosas</strong>"
         subtitle: "Mechanical Engineering"
-        image: "pic.jpeg"
+        image: "Ricardo.jpeg"
       - name: "<strong>Caroline Slama</strong>"
         subtitle: "Biological Systems Engineering"
         image: "Caroline.jpeg"
