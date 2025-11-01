@@ -19,10 +19,10 @@ profile:
     </div>
 carousels:
   - images:
-      - image: /assets/img/Car1.jpeg
+      - image: /assets/img/LBBL_group_photo.jpg
       - image: /assets/img/1.jpg
-      - image: /assets/img/2.jpg
-      - image: /assets/img/3.jpg
+      # - image: /assets/img/2.jpg
+      # - image: /assets/img/3.jpg
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
