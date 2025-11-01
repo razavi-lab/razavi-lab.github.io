@@ -19,8 +19,8 @@ profile:
     </div>
 carousels:
   - images:
-      - image: /assets/img/LBBL_group_photo.jpg
-      - image: /assets/img/1.jpg
+      - image: /assets/img/LBBL_web.jpg
+      - image: /assets/img/Car1.jpeg
       # - image: /assets/img/2.jpg
       # - image: /assets/img/3.jpg
 
