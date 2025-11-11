@@ -6,7 +6,7 @@ subtitle: <a href='https://engineering.unl.edu/person/mohammad-razavi/'>Affiliat
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: true
   more_info: >
     <p>City Campus</p>  

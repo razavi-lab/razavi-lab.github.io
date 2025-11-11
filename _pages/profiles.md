@@ -50,7 +50,7 @@ profiles:
         image: "Preston.jpg"
       - name: "<strong>Daniel Ames</strong>"
         subtitle: "Mechanical Engineering"
-        image: "pic.jpeg"
+        image: "Danny.jpg"
 
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2>"
 ---
