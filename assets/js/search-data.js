@@ -58,13 +58,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-join-us-we-seek-motivated-graduate-and-undergarduate-students",
-          title: 'Join Us: We seek motivated graduate and undergarduate students.',
+            },{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "news-our-paper-has-been-published-in-the-nature-portfolio-journal-npj-imaging",
-          title: 'Our paper has been published in the Nature Portfolio journal, npj Imaging!',
-          description: "",
-          section: "News",},{id: "news-dr-razavi-received-the-career-award-from-the-american-heart-association",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-dr-razavi-received-the-career-award-from-the-american-heart-association",
           title: 'Dr. Razavi received the Career Award from the American Heart Association.',
           description: "",
           section: "News",},{id: "news-our-paper-has-been-published-in-scientific-reports",
