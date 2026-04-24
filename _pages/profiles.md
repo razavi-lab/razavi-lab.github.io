@@ -51,6 +51,9 @@ profiles:
       - name: "<strong>Daniel Ames</strong>"
         subtitle: "Mechanical Engineering"
         image: "Danny.jpg"
+      - name: "<strong>Mackenzie Raymond</strong>"
+        subtitle: "Biological Systems Engineering"
+        image: "pic.jpeg"
 
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2>"
 ---
