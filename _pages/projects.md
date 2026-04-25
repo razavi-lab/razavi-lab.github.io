@@ -43,10 +43,6 @@ under construction
 </p>
 
 
-</div>
-<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">
-  <em>We are grateful for the support of our funding agencies. The content of our research is solely the responsibility of the authors and does not necessarily represent the official views of these organizations.</em>
-</p>
  
 
 <!-- pages/projects.md -->
