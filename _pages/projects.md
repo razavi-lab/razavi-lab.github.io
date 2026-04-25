@@ -14,26 +14,33 @@ under construction
  
 ## Funding & Support
  
-Our research is generously supported by:
- 
-<div class="funders" style="display: flex; align-items: center; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0 0.5rem 0;">
+<p><strong>Our research is generously supported by:</strong></p>
+
+<div class="funders" style="display: flex; justify-content: center; align-items: center; gap: 2rem; margin: 1.5rem 0 0.5rem 0; flex-wrap: nowrap;">
+
   <a href="https://www.nih.gov" target="_blank" rel="noopener" title="National Institutes of Health">
     <img src="/assets/img/NIH.jpeg"
-         alt="National Institutes of Health (NIH)"
-         style="height: 80px; width: auto; object-fit: contain;" />
-  </a>
-  <a href="https://www.heart.org" target="_blank" rel="noopener" title="American Heart Association">
-    <img src="/assets/img/AHA.png"
-         alt="American Heart Association (AHA)"
-         style="height: 80px; width: auto; object-fit: contain;" />
+         alt="NIH"
+         style="height: 70px; width: auto; object-fit: contain;" />
   </a>
 
-  <!-- NCIBC logo/link -->
+  <a href="https://www.heart.org" target="_blank" rel="noopener" title="American Heart Association">
+    <img src="/assets/img/AHA.png"
+         alt="AHA"
+         style="height: 70px; width: auto; object-fit: contain;" />
+  </a>
+
   <a href="https://ncibc.unl.edu/" target="_blank" rel="noopener" title="NCIBC">
     <img src="/assets/img/CIBC.jpg"
          alt="NCIBC"
-         style="max-height: 80px; width: auto; object-fit: contain;" />
+         style="height: 70px; width: auto; object-fit: contain;" />
   </a>
+
+</div>
+
+<p style="font-size:0.85rem; color:#666; margin-top:0.5rem; text-align:center;">
+  <em>We are grateful for the support of our funding agencies. The content of our research is solely the responsibility of the authors and does not necessarily represent the official views of these organizations.</em>
+</p>
 
 
 </div>
