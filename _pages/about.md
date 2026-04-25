@@ -2,14 +2,14 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://engineering.unl.edu/person/mohammad-razavi/'>Biofluid Mechanics & Lymphatic Research Lab — University of Nebraska–Lincoln</a>
+subtitle: <a href='https://engineering.unl.edu/person/mohammad-razavi/'>Lymphatic Biomechanics and Bioengineering Lab — University of Nebraska–Lincoln</a>
  
 profile:
   align: right
   image: 
   image_circular: true
   more_info: >
-    <p><strong>Razavi Lab</strong></p>
+    <p><strong>Lymphatic Biomechanics and Bioengineering Lab</strong></p>
     <p>Engineering Research Center</p>
     <p>City Campus, University of Nebraska–Lincoln</p>
     <p>Lincoln, NE 68588</p>
@@ -50,24 +50,3 @@ Our lab integrates **computational modeling**, **bioengineering**, and **experim
   </div>
 </div>
 ---
- 
-## Funding & Support
- 
-Our research is generously supported by:
- 
-<div class="funders" style="display: flex; align-items: center; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0 0.5rem 0;">
-  <a href="https://www.nih.gov" target="_blank" rel="noopener" title="National Institutes of Health">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NIH_Master_Logo_Vertical_2Color.png/240px-NIH_Master_Logo_Vertical_2Color.png"
-         alt="National Institutes of Health (NIH)"
-         style="height: 80px; width: auto; object-fit: contain;" />
-  </a>
-  <a href="https://www.heart.org" target="_blank" rel="noopener" title="American Heart Association">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/American_Heart_Association_Logo.svg/240px-American_Heart_Association_Logo.svg.png"
-         alt="American Heart Association (AHA)"
-         style="height: 80px; width: auto; object-fit: contain;" />
-  </a>
-</div>
-<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">
-  <em>We are grateful for the support of our funding agencies. The content of our research is solely the responsibility of the authors and does not necessarily represent the official views of these organizations.</em>
-</p>
- 

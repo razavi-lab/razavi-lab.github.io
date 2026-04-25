@@ -11,6 +11,28 @@ horizontal: false
 
 under construction
 
+ 
+## Funding & Support
+ 
+Our research is generously supported by:
+ 
+<div class="funders" style="display: flex; align-items: center; flex-wrap: wrap; gap: 2rem; margin: 1.5rem 0 0.5rem 0;">
+  <a href="https://www.nih.gov" target="_blank" rel="noopener" title="National Institutes of Health">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NIH_Master_Logo_Vertical_2Color.png/240px-NIH_Master_Logo_Vertical_2Color.png"
+         alt="National Institutes of Health (NIH)"
+         style="height: 80px; width: auto; object-fit: contain;" />
+  </a>
+  <a href="https://www.heart.org" target="_blank" rel="noopener" title="American Heart Association">
+    <img src="https://en.wikipedia.org/wiki/File:American_Heart_Association_Logo.svg"
+         alt="American Heart Association (AHA)"
+         style="height: 80px; width: auto; object-fit: contain;" />
+  </a>
+</div>
+<p style="font-size:0.85rem; color:#666; margin-top:0.5rem;">
+  <em>We are grateful for the support of our funding agencies. The content of our research is solely the responsibility of the authors and does not necessarily represent the official views of these organizations.</em>
+</p>
+ 
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
