@@ -9,7 +9,8 @@ profile:
   image: 
   image_circular: true
   more_info: >
-     <p>Engineering Research Center</p>
+    <p><strong></strong></p>
+    <p>Engineering Research Center</p>
     <p>City Campus, University of Nebraska–Lincoln</p>
     <p>Lincoln, NE 68588</p>
     <p>&#128222; (402) 472-2375</p>
