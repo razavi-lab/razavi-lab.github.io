@@ -9,8 +9,7 @@ profile:
   image: 
   image_circular: true
   more_info: >
-    <p><strong>Lymphatic Biomechanics and Bioengineering Lab</strong></p>
-    <p>Engineering Research Center</p>
+     <p>Engineering Research Center</p>
     <p>City Campus, University of Nebraska–Lincoln</p>
     <p>Lincoln, NE 68588</p>
     <p>&#128222; (402) 472-2375</p>
@@ -34,8 +33,6 @@ social: false
 The lymphatic system, made up of lymphatic vessels and lymph nodes, plays a critical role in maintaining fluid balance, supporting immune function, and transporting lipids throughout the body. When this system becomes impaired, it can contribute to diseases such as cancer, chronic inflammation, and lymphedema. Despite its importance, many aspects of lymphatic function and dysfunction remain poorly understood.
 
 Our laboratory integrates **computational modeling**, **bioengineering**, and **experimental approaches** to uncover the fundamental mechanisms governing lymphatic function in health and disease. Our research is organized around three core areas:
-⸻
-
  
 
 
