@@ -28,12 +28,12 @@ news: true
 selected_papers: true
 social: false
 ---
- 
-## Mission Statement
- 
-The lymphatic system, comprising lymphatic vessels and lymph nodes, is essential for maintaining tissue fluid homeostasis, coordinating immune surveillance, and transporting lipids. Lymphatic dysfunction contributes to a broad range of diseases, such as cancer, chronic inflammation, and lymphedema. Despite its critical role in human physiology, the mechanisms that regulate lymphatic function and drive its dysfunction in disease remain poorly defined.
 
-Our laboratory integrates **computational modeling**, **bioengineering**, and **experimental approaches** to to define the mechanistic principles underlying lymphatic function in health and disease. Our research is organized around three core areas:
+## Mission Statement
+
+The lymphatic system, made up of lymphatic vessels and lymph nodes, plays a critical role in maintaining fluid balance, supporting immune function, and transporting lipids throughout the body. When this system becomes impaired, it can contribute to diseases such as cancer, chronic inflammation, and lymphedema. Despite its importance, many aspects of lymphatic function and dysfunction remain poorly understood.
+
+Our laboratory integrates **computational modeling**, **bioengineering**, and **experimental approaches** to uncover the fundamental mechanisms governing lymphatic function in health and disease. Our research is organized around three core areas:
 ⸻
 
  
