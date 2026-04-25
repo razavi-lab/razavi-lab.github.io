@@ -10,7 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p><strong>Razavi Lab</strong></p>
-    <p>Scott Engineering Center</p>
+    <p>Engineering Research Center</p>
     <p>City Campus, University of Nebraska–Lincoln</p>
     <p>Lincoln, NE 68588</p>
     <p>&#128222; (402) 472-2375</p>
