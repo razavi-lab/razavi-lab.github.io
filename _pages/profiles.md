@@ -45,9 +45,9 @@ profiles:
       - name: "<strong>Caroline Slama</strong>"
         subtitle: "Biological Systems Engineering"
         image: "Caroline.jpeg"
-      - name: "<strong>Preston Pinkelman</strong>"
-        subtitle: "Mechanical Engineering"
-        image: "Preston.jpg"
+      # - name: "<strong>Preston Pinkelman</strong>"
+      #   subtitle: "Mechanical Engineering"
+      #   image: "Preston.jpg"
       - name: "<strong>Daniel Ames</strong>"
         subtitle: "Mechanical Engineering"
         image: "Danny.jpg"
@@ -55,5 +55,5 @@ profiles:
         subtitle: "Biological Systems Engineering"
         image: "pic.jpeg"
 
-  - header: "<h2 style='color:#0046ad;'>Previous lab members</h2>"
+  - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman</p>"
 ---
