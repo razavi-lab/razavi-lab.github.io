@@ -34,26 +34,71 @@ profiles:
   - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
 
   # --- Undergrad Grid Section ---
+  # - grid: undergrads
+  #   students:
+  #     - name: "<strong>Gabe Wiegrefe</strong>"
+  #       subtitle: "Biological Systems Engineering"
+  #       image: "pic.jpeg"
+  #     # - name: "<strong>Ricardo Rosas</strong>"
+  #     #   subtitle: "Mechanical Engineering"
+  #     #   image: "Ricardo.jpeg"
+  #     - name: "<strong>Caroline Slama</strong>"
+  #       subtitle: "Biological Systems Engineering"
+  #       image: "Caroline.jpeg"
+  #     # - name: "<strong>Preston Pinkelman</strong>"
+  #     #   subtitle: "Mechanical Engineering"
+  #     #   image: "Preston.jpg"
+  #     - name: "<strong>Daniel Ames</strong>"
+  #       subtitle: "Mechanical Engineering"
+  #       image: "Danny.jpg"
+  #     - name: "<strong>Mackenzie Raymond</strong>"
+  #       subtitle: "Biological Systems Engineering"
+  #       image: "pic.jpeg"
+
   - grid: undergrads
-    students:
-      - name: "<strong>Gabe Wiegrefe</strong>"
-        subtitle: "Biological Systems Engineering"
-        image: "pic.jpeg"
-      # - name: "<strong>Ricardo Rosas</strong>"
-      #   subtitle: "Mechanical Engineering"
-      #   image: "Ricardo.jpeg"
-      - name: "<strong>Caroline Slama</strong>"
-        subtitle: "Biological Systems Engineering"
-        image: "Caroline.jpeg"
-      # - name: "<strong>Preston Pinkelman</strong>"
-      #   subtitle: "Mechanical Engineering"
-      #   image: "Preston.jpg"
-      - name: "<strong>Daniel Ames</strong>"
-        subtitle: "Mechanical Engineering"
-        image: "Danny.jpg"
-      - name: "<strong>Mackenzie Raymond</strong>"
-        subtitle: "Biological Systems Engineering"
-        image: "pic.jpeg"
+  students:
+    - name: "<strong>Helen Vo</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
+    - name: "<strong>Valeria Rodriguez Gutierrez</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
+    - name: "<strong>Jared Ebrahim</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
+    - name: "<strong>Gabe Wiegrefe</strong>"
+      subtitle: "Biological Systems Engineering"
+      image: "pic.jpeg"
+
+    - name: "<strong>Caroline Slama</strong>"
+      subtitle: "Biological Systems Engineering"
+      image: "Caroline.jpeg"
+
+
+    - name: "<strong>Mackenzie Raymond</strong>"
+      subtitle: "Biological Systems Engineering"
+      image: "pic.jpeg"
+
+
+    - name: "<strong>Brody Anker</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
+    - name: "<strong>Sneha Poudel</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
+    - name: "<strong>Frohar Saidi</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
+    - name: "<strong>Alyssa Seth</strong>"
+      subtitle: ""
+      image: "pic.jpeg"
+
 
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman</p>"
 ---
