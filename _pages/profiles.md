@@ -33,9 +33,9 @@ profiles:
   # --- Section Header for Undergraduates ---
   - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
 
-  # --- Undergrad Grid Section ---
-  # - grid: undergrads
-  #   students:
+  --- Undergrad Grid Section ---
+  - grid: undergrads
+    students:
   #     - name: "<strong>Gabe Wiegrefe</strong>"
   #       subtitle: "Biological Systems Engineering"
   #       image: "pic.jpeg"
@@ -55,8 +55,6 @@ profiles:
   #       subtitle: "Biological Systems Engineering"
   #       image: "pic.jpeg"
 
-  - grid: undergrads
-  students:
     - name: "<strong>Helen Vo</strong>"
       subtitle: "NA"
       image: "pic.jpeg"
