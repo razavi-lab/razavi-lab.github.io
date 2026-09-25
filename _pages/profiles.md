@@ -58,15 +58,15 @@ profiles:
   - grid: undergrads
   students:
     - name: "<strong>Helen Vo</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
     - name: "<strong>Valeria Rodriguez Gutierrez</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
     - name: "<strong>Jared Ebrahim</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
     - name: "<strong>Gabe Wiegrefe</strong>"
@@ -77,26 +77,24 @@ profiles:
       subtitle: "Biological Systems Engineering"
       image: "Caroline.jpeg"
 
-
     - name: "<strong>Mackenzie Raymond</strong>"
       subtitle: "Biological Systems Engineering"
       image: "pic.jpeg"
 
-
     - name: "<strong>Brody Anker</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
     - name: "<strong>Sneha Poudel</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
     - name: "<strong>Frohar Saidi</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
     - name: "<strong>Alyssa Seth</strong>"
-      subtitle: ""
+      subtitle: "NA"
       image: "pic.jpeg"
 
 
