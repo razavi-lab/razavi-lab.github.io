@@ -44,14 +44,14 @@ profiles:
       #   image: "Ricardo.jpeg"
       - name: "<strong>Caroline Slama</strong>"
         subtitle: "Biological Systems Engineering"
-        image: "Caroline.jpeg"
+        image: "Caroline.jpg"
       # - name: "<strong>Preston Pinkelman</strong>"
       #   subtitle: "Mechanical Engineering"
       #   image: "Preston.jpg"
 
       - name: "<strong>Mackenzie Raymond</strong>"
         subtitle: "Biological Systems Engineering"
-        image: "pic.jpeg"
+        image: "Mackenzie.jpg"
 
       - name: "<strong>Jared Ebrahim</strong>"
         subtitle: ""
@@ -66,8 +66,8 @@ profiles:
         image: "pic.jpeg"
       
       - name: "<strong>Sneha Poudel</strong>"
-        subtitle: ""
-        image: "pic.jpeg"
+        subtitle: "Mechanical Engineering"
+        image: "Sneha.jpeg"
 
 
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman, Daniel Ames</p>"
