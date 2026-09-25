@@ -33,7 +33,7 @@ profiles:
   # --- Section Header for Undergraduates ---
   - header: "<h2 style='color:#0046ad;'>Undergraduate Researchers</h2>"
 
-  --- Undergrad Grid Section ---
+  # --- Undergrad Grid Section ---
   - grid: undergrads
     students:
       - name: "<strong>Gabe Wiegrefe</strong>"
@@ -54,47 +54,6 @@ profiles:
       - name: "<strong>Mackenzie Raymond</strong>"
         subtitle: "Biological Systems Engineering"
         image: "pic.jpeg"
-
-    # - name: "<strong>Helen Vo</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Valeria Rodriguez Gutierrez</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Jared Ebrahim</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Gabe Wiegrefe</strong>"
-    #   subtitle: "Biological Systems Engineering"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Caroline Slama</strong>"
-    #   subtitle: "Biological Systems Engineering"
-    #   image: "Caroline.jpeg"
-
-    # - name: "<strong>Mackenzie Raymond</strong>"
-    #   subtitle: "Biological Systems Engineering"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Brody Anker</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Sneha Poudel</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Frohar Saidi</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
-    # - name: "<strong>Alyssa Seth</strong>"
-    #   subtitle: "NA"
-    #   image: "pic.jpeg"
-
 
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman</p>"
 ---
