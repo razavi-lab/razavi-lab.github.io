@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /members/
-title: People
+title: Team
 nav: true
 nav_order: 2
 
