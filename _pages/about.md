@@ -22,7 +22,7 @@ profile:
 carousels:
   - images:
       - image: /assets/img/group.jpeg
-      - image: /assets/img/Car1.jpeg
+      # - image: /assets/img/Car1.jpeg
  
 news: true
 selected_papers: true
