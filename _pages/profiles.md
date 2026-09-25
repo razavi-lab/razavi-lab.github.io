@@ -55,5 +55,14 @@ profiles:
         subtitle: "Biological Systems Engineering"
         image: "pic.jpeg"
 
+      - name: "<strong>Helen Vo</strong>"
+        subtitle: ""
+        image: "pic.jpeg"
+
+      - name: "<strong>Valeria Rodriguez Gutierrez</strong>"
+        subtitle: ""
+        image: "pic.jpeg"
+      
+
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman</p>"
 ---
