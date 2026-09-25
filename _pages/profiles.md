@@ -48,11 +48,13 @@ profiles:
       # - name: "<strong>Preston Pinkelman</strong>"
       #   subtitle: "Mechanical Engineering"
       #   image: "Preston.jpg"
-      - name: "<strong>Daniel Ames</strong>"
-        subtitle: "Mechanical Engineering"
-        image: "Danny.jpg"
+
       - name: "<strong>Mackenzie Raymond</strong>"
         subtitle: "Biological Systems Engineering"
+        image: "pic.jpeg"
+
+      - name: "<strong>Jared Ebrahim</strong>"
+        subtitle: ""
         image: "pic.jpeg"
 
       - name: "<strong>Helen Vo</strong>"
@@ -63,6 +65,10 @@ profiles:
         subtitle: ""
         image: "pic.jpeg"
       
+      - name: "<strong>Sneha Poudel</strong>"
+        subtitle: ""
+        image: "pic.jpeg"
 
-  - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman</p>"
+
+  - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman, Daniel Ames</p>"
 ---
