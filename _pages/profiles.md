@@ -53,6 +53,10 @@ profiles:
         subtitle: "Biological Systems Engineering"
         image: "Mackenzie.jpg"
 
+      - name: "<strong>Sneha Poudel</strong>"
+        subtitle: "Mechanical Engineering"
+        image: "Sneha.jpeg"
+
       - name: "<strong>Jared Ebrahim</strong>"
         subtitle: ""
         image: "pic.jpeg"
@@ -65,9 +69,6 @@ profiles:
         subtitle: ""
         image: "pic.jpeg"
       
-      - name: "<strong>Sneha Poudel</strong>"
-        subtitle: "Mechanical Engineering"
-        image: "Sneha.jpeg"
 
 
   - header: "<h2 style='color:#0046ad;'>Previous lab members</h2><p>Ricardo Rosas, Preston Pinkelman, Daniel Ames</p>"
